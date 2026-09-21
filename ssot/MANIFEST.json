@@ -1,38 +1,43 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "repository": "mozaheb/MyPRContent",
   "purpose": "Single Source of Truth for Yousef Mozaheb personal brand, PR and content across all media",
   "effective_date": "2026-09-21",
+  "strategy_version": "2.0",
+  "positioning": "Business Growth Architecture",
   "canonical": {
+    "master_strategy": "strategy/master-strategy-v2.md",
     "brand_core": "strategy/brand-core.md",
+    "content_moats": "strategy/content-moats.md",
+    "signature_series": "strategy/signature-series.md",
     "channel_system": "strategy/channel-system.md",
-    "content_rules": "governance/content-rules.md"
+    "trend_layer": "strategy/trend-layer-2026.md",
+    "content_rules": "governance/content-rules.md",
+    "confidentiality": "governance/confidentiality.md",
+    "cover_system": "design/cover-system.md",
+    "kpi_framework": "measurement/kpi-framework.md",
+    "operating_plan": "operating/90-day-plan.md",
+    "quality_gate": "governance/quality-gate-v2.md"
   },
-  "channel_scope": [
-    "LinkedIn",
-    "Instagram",
-    "X/Twitter",
-    "Telegram",
-    "Personal Website/Blog",
-    "Amoot-owned media",
-    "Press and trade media",
-    "Interviews",
-    "Podcasts",
-    "Speaking/Panels/Webinars",
-    "Short-form video",
-    "Long-form video",
-    "Guest articles",
-    "Newsletters",
-    "Future channels"
+  "source_priority": [
+    "CANONICAL-HEAD.json",
+    "ssot/MANIFEST.json",
+    "canonical strategy documents",
+    "approved published content",
+    "working drafts"
   ],
-  "governance": {
-    "source_priority": [
-      "CANONICAL-HEAD.json",
-      "ssot/MANIFEST.json",
-      "canonical strategy documents",
-      "approved published content",
-      "working drafts"
-    ],
-    "rule": "Channel adaptation may change format and tone, but must not contradict canonical positioning, claims or identity."
+  "mandatory_rules": [
+    "Original POV over generic content",
+    "Evidence-led content over unsupported advice",
+    "Channel adaptation over copy-paste",
+    "Selective build in public over uncontrolled disclosure",
+    "Influence to Opportunity to Revenue over vanity metrics",
+    "Trend adoption only when it improves trust, distribution or discovery"
+  ],
+  "review": {
+    "strategy": "quarterly or on material positioning change",
+    "trend_layer": "quarterly",
+    "kpis": "monthly",
+    "cover_system": "semiannual or when channel behavior materially changes"
   }
 }
