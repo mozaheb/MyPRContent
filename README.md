@@ -4,8 +4,6 @@
 
 ## Strategy
 
-جایگاه اصلی:
-
 > **یوسف مذهب؛ متفکر و استراتژیست رشد کسب‌وکار که با آینده‌پژوهی، فناوری و سیستم‌سازی، رشد را سریع‌تر و کم‌ریسک‌تر می‌کند.**
 
 قلمرو اختصاصی:
@@ -16,9 +14,42 @@
 
 **Signal → Decision → System → Experiment → Scale**
 
-## Global Trend Radar
+## Content Season 01
 
-مدل پژوهش هفتگی:
+اولین فصل رسمی MyPRContent شامل **30 Master Content در 10 هفته** است.
+
+هدف Season:
+
+> مخاطب به‌تدریج بفهمد یوسف درباره نرم‌افزار حرف نمی‌زند؛ درباره معماری کسب‌وکاری حرف می‌زند که بهتر می‌بیند، سریع‌تر تصمیم می‌گیرد و سیستماتیک‌تر رشد می‌کند.
+
+پنج Chapter:
+
+1. اصطکاک‌های عادی‌شده
+2. از داده تا تصمیم
+3. خروج کار از حافظه انسان
+4. کیفیت تصمیم مدیرعامل
+5. نام‌گذاری «معماری رشد کسب‌وکار»
+
+مرجع:
+- strategy/content-season-01.md
+- operating/content-production-queue-season-01.md
+
+## Current Publication State
+
+### Published
+**GROWTH-001-fa-v3**
+
+> شماره مشتری را داریم؛ چرا می‌پرسیم کجا بفرستیم؟
+
+URL:
+https://lnkd.in/p/dT8AsPhy
+
+### Ready-to-publish
+**GROWTH-002-fa-v2**
+
+> داده‌ها را داریم؛ پس چرا برای فهمیدنشان باید سؤال کنیم؟
+
+## Global Trend Radar
 
 **Global Signal → Pattern → Mechanism → Transferability → Persian Adaptation → MyPRContent Experiment**
 
@@ -26,54 +57,39 @@
 
 ## Persian Content System
 
-اصل:
-
 > **ساده برای فهم، سخت برای فراموش‌کردن.**
-
-سیستم شامل Voice، فارسی نوشتاری و گفتاری، Lexicon، تیتر، پروتکل AI، Output Contract، ماتریس رسانه و Quality Gate است.
 
 ## Publication System
 
-هر محتوا از این چرخه عبور می‌کند:
-
 **Idea → Research → Draft → Review → Approved → Ready-to-publish → Published → Measured → Learned**
 
-وضعیت Published فقط پس از ثبت URL واقعی رسانه مجاز است.
-
-## اولین محتوای رسمی
-
-شناسه:
-
-**GROWTH-001-fa-v1**
-
-کانال هدف:
-
-**LinkedIn**
-
-تز:
-
-> **نرم‌افزار بیشتر، سازمان پراکنده را درمان نمی‌کند.**
-
-فایل:
-content/2026/09/GROWTH-001-fa.md
-
-وضعیت:
-ready-to-publish
-
-## شروع مطالعه SSOT
-
-1. CANONICAL-HEAD.json
-2. ssot/MANIFEST.json
-3. strategy/master-strategy-v2.md
-4. research/global-trend-radar.md
-5. language/persian-voice-and-tone.md
-6. ai/persian-content-reasoning-protocol.md
-7. governance/publication-protocol.md
-
-## قانون ضدکپی
+## Anti-Copy Rule
 
 > اگر فرد دیگری بدون تجربه، داده، دسترسی یا نوع تفکر یوسف بتواند همان محتوا را تولید کند، محتوا هنوز آماده انتشار نیست.
+
+## Season Rule
+
+هر محتوای Season 01 باید حداقل یک Evidence Token داشته باشد:
+- داده
+- تجربه
+- تصمیم
+- آزمایش
+- پیش‌بینی
+- مشاهده میدانی
 
 ## Measurement
 
 **Influence → Opportunity → Revenue**
+
+Follower Count به‌تنهایی KPI راهبردی نیست.
+
+## Start Here
+
+1. CANONICAL-HEAD.json
+2. ssot/MANIFEST.json
+3. strategy/master-strategy-v2.md
+4. strategy/content-season-01.md
+5. operating/content-production-queue-season-01.md
+6. strategy/signature-series.md
+7. research/global-trend-radar.md
+8. governance/publication-protocol.md
