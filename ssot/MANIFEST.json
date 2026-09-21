@@ -1,10 +1,11 @@
 {
-  "schema_version": "2.1",
+  "schema_version": "2.2",
   "repository": "mozaheb/MyPRContent",
   "purpose": "Single Source of Truth for Yousef Mozaheb personal brand, PR and content across all media",
   "effective_date": "2026-09-21",
   "strategy_version": "2.0",
   "language_system_version": "1.0",
+  "trend_radar_version": "1.0",
   "positioning": "Business Growth Architecture",
   "canonical": {
     "master_strategy": "strategy/master-strategy-v2.md",
@@ -20,6 +21,9 @@
     "ai_authoring_protocol": "ai/persian-content-reasoning-protocol.md",
     "persian_output_contract": "templates/persian-content-output-contract.md",
     "platform_language_matrix": "templates/platform-language-matrix-fa.md",
+    "global_trend_radar": "research/global-trend-radar.md",
+    "global_source_universe": "research/global-source-universe.md",
+    "weekly_global_radar_output": "templates/weekly-global-trend-radar-output.md",
     "content_rules": "governance/content-rules.md",
     "confidentiality": "governance/confidentiality.md",
     "language_quality_gate": "governance/persian-language-quality-gate.md",
@@ -35,12 +39,13 @@
   "source_priority": [
     "CANONICAL-HEAD.json",
     "ssot/MANIFEST.json",
-    "canonical strategy and language documents",
+    "canonical strategy, language and radar documents",
     "approved published content",
     "time-bound trend research",
     "working drafts"
   ],
   "mandatory_rules": [
+    "Global discovery before local adaptation",
     "Original POV over generic content",
     "Evidence-led content over unsupported advice",
     "Natural Persian over translated or machine-like Persian",
@@ -53,6 +58,7 @@
   "review": {
     "strategy": "quarterly or on material positioning change",
     "language_core": "semiannual or on material voice change",
+    "global_trend_radar": "weekly",
     "persian_trend_research": "monthly or quarterly",
     "trend_layer": "quarterly",
     "kpis": "monthly",
