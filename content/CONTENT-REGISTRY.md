@@ -2,7 +2,11 @@
 
 | ID | Date | Series | Language | Channel | Core Claim | Status |
 |---|---|---|---|---|---|---|
-| GROWTH-001-fa-v1 | 2026-09-22 | GROWTH | fa | LinkedIn | نرم‌افزار بیشتر، سازمان پراکنده را درمان نمی‌کند. | ready-to-publish |
+| GROWTH-001-fa-v2 | 2026-09-22 | GROWTH | fa | LinkedIn | شماره موبایل می‌تواند هویت ارتباطی مشتری باشد، نه فقط ابزار تماس. | ready-to-publish |
+
+## Approved Title
+
+**شماره مشتری را داریم؛ چرا می‌پرسیم کجا بفرستیم؟**
 
 ## Rule
 
