@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "ssot": "MyPRContent",
+  "scope": "cross-media personal brand, PR and content",
+  "effective_date": "2026-09-21",
+  "manifest": "ssot/MANIFEST.json",
+  "canonical_documents": [
+    "strategy/brand-core.md",
+    "strategy/channel-system.md",
+    "governance/content-rules.md"
+  ],
+  "status": "active"
+}
