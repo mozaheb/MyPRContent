@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.3",
+  "schema_version": "2.4",
   "repository": "mozaheb/MyPRContent",
   "purpose": "Single Source of Truth for Yousef Mozaheb personal brand, PR and content across all media",
   "effective_date": "2026-09-22",
@@ -7,9 +7,11 @@
   "language_system_version": "1.0",
   "trend_radar_version": "1.0",
   "publication_system_version": "1.0",
+  "content_season_version": "1.0",
   "positioning": "Business Growth Architecture",
   "canonical": {
     "master_strategy": "strategy/master-strategy-v2.md",
+    "content_season_01": "strategy/content-season-01.md",
     "brand_core": "strategy/brand-core.md",
     "content_moats": "strategy/content-moats.md",
     "signature_series": "strategy/signature-series.md",
@@ -36,7 +38,8 @@
     "strategy_quality_gate": "governance/quality-gate-v2.md"
   },
   "operational": {
-    "content_registry": "content/CONTENT-REGISTRY.md"
+    "content_registry": "content/CONTENT-REGISTRY.md",
+    "content_production_queue_season_01": "operating/content-production-queue-season-01.md"
   },
   "time_bound_research": {
     "persian_social_patterns": "research/persian-social-patterns-2026-09.md"
@@ -44,15 +47,18 @@
   "source_priority": [
     "CANONICAL-HEAD.json",
     "ssot/MANIFEST.json",
-    "canonical strategy, language, radar and publication documents",
+    "canonical strategy, content season, language, radar and publication documents",
     "approved published content",
+    "active production queue",
     "time-bound trend research",
     "working drafts"
   ],
   "mandatory_rules": [
     "Global discovery before local adaptation",
+    "Narrative continuity over isolated viral posts",
     "Original POV over generic content",
     "Evidence-led content over unsupported advice",
+    "No repeated headline formula across consecutive posts",
     "Natural Persian over translated or machine-like Persian",
     "Channel adaptation over copy-paste",
     "Canonical terminology over synonym drift",
@@ -63,6 +69,8 @@
   ],
   "review": {
     "strategy": "quarterly or on material positioning change",
+    "content_season_01": "every 4 weeks and at season close",
+    "production_queue": "weekly",
     "language_core": "semiannual or on material voice change",
     "global_trend_radar": "weekly",
     "persian_trend_research": "monthly or quarterly",
