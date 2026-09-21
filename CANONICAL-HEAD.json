@@ -1,13 +1,23 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "ssot": "MyPRContent",
   "scope": "cross-media personal brand, PR and content",
   "effective_date": "2026-09-21",
+  "strategy_version": "2.0",
+  "status": "active",
+  "quality_gate": "governance/quality-gate-v2.md",
   "manifest": "ssot/MANIFEST.json",
   "canonical_documents": [
+    "strategy/master-strategy-v2.md",
     "strategy/brand-core.md",
+    "strategy/content-moats.md",
+    "strategy/signature-series.md",
     "strategy/channel-system.md",
-    "governance/content-rules.md"
-  ],
-  "status": "active"
+    "strategy/trend-layer-2026.md",
+    "governance/content-rules.md",
+    "governance/confidentiality.md",
+    "design/cover-system.md",
+    "measurement/kpi-framework.md",
+    "operating/90-day-plan.md"
+  ]
 }
