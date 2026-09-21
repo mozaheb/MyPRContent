@@ -1,9 +1,10 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "repository": "mozaheb/MyPRContent",
   "purpose": "Single Source of Truth for Yousef Mozaheb personal brand, PR and content across all media",
   "effective_date": "2026-09-21",
   "strategy_version": "2.0",
+  "language_system_version": "1.0",
   "positioning": "Business Growth Architecture",
   "canonical": {
     "master_strategy": "strategy/master-strategy-v2.md",
@@ -12,30 +13,47 @@
     "signature_series": "strategy/signature-series.md",
     "channel_system": "strategy/channel-system.md",
     "trend_layer": "strategy/trend-layer-2026.md",
+    "persian_headline_system": "strategy/persian-headline-system.md",
+    "persian_voice": "language/persian-voice-and-tone.md",
+    "persian_writing": "language/persian-writing-standard.md",
+    "persian_lexicon": "language/persian-canonical-lexicon.md",
+    "ai_authoring_protocol": "ai/persian-content-reasoning-protocol.md",
+    "persian_output_contract": "templates/persian-content-output-contract.md",
+    "platform_language_matrix": "templates/platform-language-matrix-fa.md",
     "content_rules": "governance/content-rules.md",
     "confidentiality": "governance/confidentiality.md",
+    "language_quality_gate": "governance/persian-language-quality-gate.md",
+    "persian_content_system_quality_gate": "governance/persian-content-system-quality-gate.md",
     "cover_system": "design/cover-system.md",
     "kpi_framework": "measurement/kpi-framework.md",
     "operating_plan": "operating/90-day-plan.md",
-    "quality_gate": "governance/quality-gate-v2.md"
+    "strategy_quality_gate": "governance/quality-gate-v2.md"
+  },
+  "time_bound_research": {
+    "persian_social_patterns": "research/persian-social-patterns-2026-09.md"
   },
   "source_priority": [
     "CANONICAL-HEAD.json",
     "ssot/MANIFEST.json",
-    "canonical strategy documents",
+    "canonical strategy and language documents",
     "approved published content",
+    "time-bound trend research",
     "working drafts"
   ],
   "mandatory_rules": [
     "Original POV over generic content",
     "Evidence-led content over unsupported advice",
+    "Natural Persian over translated or machine-like Persian",
     "Channel adaptation over copy-paste",
+    "Canonical terminology over synonym drift",
     "Selective build in public over uncontrolled disclosure",
     "Influence to Opportunity to Revenue over vanity metrics",
     "Trend adoption only when it improves trust, distribution or discovery"
   ],
   "review": {
     "strategy": "quarterly or on material positioning change",
+    "language_core": "semiannual or on material voice change",
+    "persian_trend_research": "monthly or quarterly",
     "trend_layer": "quarterly",
     "kpis": "monthly",
     "cover_system": "semiannual or when channel behavior materially changes"
