@@ -3,6 +3,7 @@
 | ID | Date | Series | Language | Channel | Core Claim | Status | URL |
 |---|---|---|---|---|---|---|---|
 | GROWTH-001-fa-v3 | 2026-09-22 | GROWTH | fa | LinkedIn | شماره موبایل می‌تواند هویت ارتباطی مشتری باشد، نه فقط ابزار تماس. | published | https://lnkd.in/p/dT8AsPhy |
+| GROWTH-002-fa-v1 | 2026-09-22 | GROWTH | fa | LinkedIn | داشتن داده با فهمیدن وضعیت کسب‌وکار یکی نیست. | approved-topic | |
 
 ## Published Title
 
