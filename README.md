@@ -16,81 +16,100 @@
 
 **Signal → Decision → System → Experiment → Scale**
 
-## اصل محوری
+## Persian Content System v1
 
-هدف، تولید «محتوای بیشتر» نیست.
+زبان فارسی MyPRContent اکنون یک سیستم Canonical مستقل دارد.
 
-هدف، ساخت بینش‌هایی است که از داده، تجربه، تصمیم، آزمایش، پیش‌بینی و نوع تفکر یوسف استخراج می‌شوند و به‌سادگی قابل کپی نیستند.
+اصل آن:
 
-آموت و محصولات آن، از جمله اوج، آوانک، پیامک آموت، سرآور و کولاک، می‌توانند Laboratory و Evidence باشند؛ نه موضوع تبلیغاتی تمام رسانه.
+> **ساده برای فهم، سخت برای فراموش‌کردن.**
+
+سیستم فارسی شامل:
+- Voice و Tone
+- فارسی نوشتاری
+- فارسی گفتاری
+- Lexicon یکدست
+- معماری تیتر
+- پروتکل AI
+- Output Contract
+- ماتریس زبان رسانه‌ها
+- Trend Research فارسی
+- Quality Gate
 
 ## شروع مطالعه SSOT
 
-1. `CANONICAL-HEAD.json`
-2. `ssot/MANIFEST.json`
-3. `strategy/master-strategy-v2.md`
+1. CANONICAL-HEAD.json
+2. ssot/MANIFEST.json
+3. strategy/master-strategy-v2.md
+4. language/persian-voice-and-tone.md
+5. ai/persian-content-reasoning-protocol.md
 
-## اسناد Canonical
+## اسناد اصلی
 
 ### Strategy
-- `strategy/master-strategy-v2.md`
-- `strategy/brand-core.md`
-- `strategy/content-moats.md`
-- `strategy/signature-series.md`
-- `strategy/channel-system.md`
-- `strategy/trend-layer-2026.md`
+- strategy/master-strategy-v2.md
+- strategy/brand-core.md
+- strategy/content-moats.md
+- strategy/signature-series.md
+- strategy/channel-system.md
+- strategy/trend-layer-2026.md
+- strategy/persian-headline-system.md
+
+### Language
+- language/persian-voice-and-tone.md
+- language/persian-writing-standard.md
+- language/persian-canonical-lexicon.md
+
+### AI
+- ai/persian-content-reasoning-protocol.md
+
+### Templates
+- templates/persian-content-output-contract.md
+- templates/platform-language-matrix-fa.md
+
+### Research
+- research/persian-social-patterns-2026-09.md
 
 ### Governance
-- `governance/content-rules.md`
-- `governance/confidentiality.md`
-- `governance/quality-gate-v2.md`
+- governance/content-rules.md
+- governance/confidentiality.md
+- governance/persian-language-quality-gate.md
+- governance/persian-content-system-quality-gate.md
+- governance/quality-gate-v2.md
 
 ### Design
-- `design/cover-system.md`
+- design/cover-system.md
 
 ### Measurement
-- `measurement/kpi-framework.md`
+- measurement/kpi-framework.md
 
 ### Execution
-- `operating/90-day-plan.md`
+- operating/90-day-plan.md
 
-## Signature Series
+## Default Persian Output
 
-- RADAR — رادار آینده
-- DECISION — دفتر تصمیم مدیرعامل
-- GROWTH — مهندسی رشد
-- DATA — یک نمودار، یک تصمیم
-- RETHINK — چیزی که اشتباه فهمیدیم
-- LAB — آزمایشگاه آموت
+پیش‌فرض تولید محتوای مهم = Mode M:
+
+**Strategic Intent → 6 Headlines → Cover → 3 Hooks → Main Copy → 3 CTAs → Evidence/Risk**
+
+تیترها به‌صورت پیش‌فرض در شش زاویه تولید می‌شوند:
+
+**شفاف / تضاد / پرسشی / داده / تصمیم / آینده**
 
 ## قانون ضدکپی
 
 > اگر فرد دیگری بدون تجربه، داده، دسترسی یا نوع تفکر یوسف بتواند همان محتوا را تولید کند، محتوا هنوز آماده انتشار نیست.
 
-## Design
+## قانون ترند
 
-هویت کاورها:
+Trend Layer و پژوهش الگوهای فارسی Time-bound هستند.
 
-**Editorial + Strategic + Data-driven**
-
-Master Canvas: 1080×1350 / 4:5
-
-جزئیات در `design/cover-system.md`.
+ترند می‌تواند Hook و Format را تغییر دهد؛ اما حق تغییر Voice، Fact، Position یا استاندارد Evidence را ندارد.
 
 ## Measurement
-
-زنجیره سنجش:
 
 **Influence → Opportunity → Revenue**
 
 Follower Count به‌تنهایی KPI راهبردی نیست.
 
-## Governance
-
-- اطلاعات محرمانه منتشر نمی‌شود.
-- داده باید تجمیعی و ناشناس باشد.
-- Build in Public به‌صورت Selective اجرا می‌شود.
-- Trend Layer از Strategy Core جدا نگه داشته می‌شود.
-- هر تغییر بنیادی ابتدا در SSOT ثبت می‌شود.
-
-Strategy v2 در تاریخ 2026-09-21 از Quality Gate داخلی عبور کرده و Canonical شده است.
+Persian Content System v1 در تاریخ 2026-09-21 از Quality Gate داخلی عبور کرده و Canonical شده است.
