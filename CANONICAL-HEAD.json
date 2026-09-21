@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.3",
+  "schema_version": "2.4",
   "ssot": "MyPRContent",
   "scope": "cross-media personal brand, PR and content",
   "effective_date": "2026-09-22",
@@ -7,12 +7,14 @@
   "language_system_version": "1.0",
   "trend_radar_version": "1.0",
   "publication_system_version": "1.0",
+  "content_season_version": "1.0",
   "status": "active",
   "quality_gate": "governance/quality-gate-v2.md",
   "language_quality_gate": "governance/persian-content-system-quality-gate.md",
   "manifest": "ssot/MANIFEST.json",
   "canonical_documents": [
     "strategy/master-strategy-v2.md",
+    "strategy/content-season-01.md",
     "strategy/brand-core.md",
     "strategy/content-moats.md",
     "strategy/signature-series.md",
@@ -38,7 +40,8 @@
     "operating/90-day-plan.md"
   ],
   "operational_documents": [
-    "content/CONTENT-REGISTRY.md"
+    "content/CONTENT-REGISTRY.md",
+    "operating/content-production-queue-season-01.md"
   ],
   "time_bound_research": [
     "research/persian-social-patterns-2026-09.md"
