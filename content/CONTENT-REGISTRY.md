@@ -3,7 +3,7 @@
 | ID | Date | Series | Language | Channel | Core Claim | Status | URL |
 |---|---|---|---|---|---|---|---|
 | GROWTH-001-fa-v3 | 2026-09-22 | GROWTH | fa | LinkedIn | شماره موبایل می‌تواند هویت ارتباطی مشتری باشد، نه فقط ابزار تماس. | published | https://lnkd.in/p/dT8AsPhy |
-| GROWTH-002-fa-v2 | 2026-09-22 | GROWTH | fa | LinkedIn | ارزش مدیریتی داده زمانی ایجاد می‌شود که پیش از پرسش مدیر، سیگنال و تصمیم قابل‌اقدام بسازد. | ready-to-publish | |
+| GROWTH-002-fa-v2 | 2026-09-22 | GROWTH | fa | LinkedIn | ارزش مدیریتی داده زمانی ایجاد می‌شود که پیش از پرسش مدیر، سیگنال و تصمیم قابل‌اقدام بسازد. | ready-to-publish | |\n| GROWTH-014-fa-v1 | 2026-09-22 | GROWTH | fa | LinkedIn | یکی از سرمایه‌های کمتر دیده‌شده ایران، توان مدیریتی شکل‌گرفته در محیط پرعدم‌قطعیت است. | ready-to-publish | |
 
 ## Published Content
 
@@ -18,10 +18,16 @@
 
 ## Next Content
 
-### GROWTH-002
-**داده‌ها را داریم؛ پس چرا برای فهمیدنشان باید سؤال کنیم؟**
+### GROWTH-014
+**یکی از سرمایه‌های پنهان ایران، مدیرانش هستند.**
 
-Status: ready-to-publish
+Status: ready-to-publish  
+Role: Operator Interlude  
+Publication priority: next
+
+### Following Content
+
+GROWTH-002 remains ready-to-publish and returns to the main Season 01 narrative immediately after this interlude.
 
 ## Season
 
