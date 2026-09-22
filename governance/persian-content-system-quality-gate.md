@@ -1,7 +1,7 @@
 # Persian Content System Quality Gate
 
 Status: Approved
-Version: 1.0
+Version: 1.1
 Review date: 2026-09-21
 
 این امتیاز یک Rubric داخلی برای کامل‌بودن سیستم است؛ نه تضمین وایرال‌شدن یا رشد.
@@ -36,12 +36,15 @@ Review date: 2026-09-21
 - Persian trend research
 - Quality control
 - Feedback loop
+- Pinned external Persian-writing baseline برای Register، Naturalness، Orthography و RTL
 
 ## Hard Rule
 
 ترند می‌تواند Format و Hook را تغییر دهد.
 
 ترند حق تغییر شخصیت برند، Fact، Position یا استاندارد Evidence را ندارد.
+
+هر خروجی فارسی باید Persian Writing External Baseline پین‌شده را نیز پاس کند؛ این الزام تابع ترند یا سلیقه کانال نیست.
 
 ## Rejection Rule
 
