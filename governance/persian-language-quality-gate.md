@@ -1,12 +1,27 @@
 # Persian Language & AI Quality Gate
 
 Status: Canonical
-Version: 1.0
-Effective: 2026-09-21
+Version: 1.1
+Effective: 2026-09-22
 
 ## شرط انتشار
 
 هر خروجی مهم MyPRContent باید حداقل 90/100 بگیرد.
+
+
+## Mandatory Baseline Gate
+
+قبل از امتیازدهی ۱۰۰نمره‌ای، خروجی فارسی باید `language/persian-writing-external-baseline.md` را پاس کند.
+
+این مرحله امتیازی نیست؛ **pass/fail** است و شامل این کنترل‌هاست:
+- Register صحیح و ثابت
+- Naturalness و حذف نثر اداری/ترجمه‌زده/machine-like
+- کنترل AI-tellهای نسخه پین‌شده
+- نیم‌فاصله، ی/ک فارسی، اعداد و punctuation
+- هکسره و spacing
+- RTL/Font/Layout در deliverableهای فایل‌محور
+
+Fail در این مرحله یعنی محتوا وارد محاسبه امتیاز نهایی نمی‌شود.
 
 ## Rubric
 
@@ -32,6 +47,7 @@ Effective: 2026-09-21
 - متن Generic و قابل جایگزینی باشد.
 - فارسی ترجمه‌زده و ماشینی باشد.
 - Prediction به شکل Fact نوشته شود.
+- Persian Writing Baseline اجرا نشده باشد یا Register/Orthography آن fail شود.
 
 ## 10/10 Internal Standard
 
