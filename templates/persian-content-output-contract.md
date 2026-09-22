@@ -1,12 +1,25 @@
 # Persian Content Output Contract
 
 Status: Canonical
-Version: 1.0
-Effective: 2026-09-21
+Version: 1.1
+Effective: 2026-09-22
 
 ## هدف
 
 هر محتوای مهم MyPRContent باید قابل انتخاب، انتشار، سنجش و یادگیری باشد.
+
+
+## Mandatory Language Preflight
+
+هر خروجی فارسی این Contract فقط زمانی کامل محسوب می‌شود که `language/persian-writing-external-baseline.md` را پاس کرده باشد.
+
+پیش از تحویل یا تغییر وضعیت به `ready-to-publish`:
+- Register باید تعیین و در متن ثابت باشد.
+- Naturalness pass و حذف AI-tellهای مرتبط انجام شده باشد.
+- Orthography pass انجام شده باشد.
+- در خروجی فایل‌محور، RTL و قواعد فرمت فارسی نیز بررسی شده باشد.
+
+این شرط با کوتاه‌بودن خروجی یا انتخاب Mode S حذف نمی‌شود.
 
 ## Default Output
 
