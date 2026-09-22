@@ -12,6 +12,14 @@ Source of strategy: strategy/content-season-01.md
 
 No content may skip Evidence Needed when its required token is not yet available.
 
+## Priority Operator Interlude
+
+| Priority | ID | Working Title | Format | Evidence Token | Status |
+|---:|---|---|---|---|---|
+| NEXT | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text | Operator observation | Ready-to-publish |
+
+این محتوا خارج از توالی اصلی ۳۰ محتوای Season 01 و برای حفظ ریتم Operator/Human منتشر می‌شود. پس از آن، توالی اصلی با GROWTH-002 ادامه پیدا می‌کند.
+
 ## Queue
 
 | Seq | ID | Working Title | Format | Evidence Token | Status |
@@ -49,11 +57,12 @@ No content may skip Evidence Needed when its required token is not yet available
 
 ## Immediate Next Actions
 
-1. Publish or finalize GROWTH-002.
-2. Capture T+24h / T+72h learning from GROWTH-001.
-3. Select one real implementation case for GROWTH-003.
-4. Prevent headline-formula repetition between GROWTH-001, 002 and 003.
-5. Build a reusable Evidence Intake note for operator examples as they occur.
+1. Publish GROWTH-014 as the next post.
+2. Publish or finalize GROWTH-002 immediately after the Operator Interlude.
+3. Capture T+24h / T+72h learning from GROWTH-001.
+4. Select one real implementation case for GROWTH-003.
+5. Prevent headline-formula repetition across the next three publications.
+6. Build a reusable Evidence Intake note for operator examples as they occur.
 
 ## Queue Governance
 
