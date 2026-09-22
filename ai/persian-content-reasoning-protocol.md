@@ -1,8 +1,8 @@
 # Persian AI Content Reasoning Protocol
 
 Status: Canonical
-Version: 1.0
-Effective: 2026-09-21
+Version: 1.1
+Effective: 2026-09-22
 
 ## هدف
 
@@ -36,6 +36,20 @@ POV نهایی باید با تجربه، داده و جهان‌بینی یوس
 ۷. Trend Layer
 
 Trend هرگز بر Core Strategy اولویت ندارد.
+
+
+## Persian Language Baseline — Mandatory
+
+برای هر خروجی فارسی، پیش از Draft باید `language/persian-writing-external-baseline.md` اعمال شود.
+
+حداقل مسیر اجباری:
+1. تشخیص Register بر اساس artifact و audience.
+2. اعمال Voice داخلی MyPRContent.
+3. خواندن و اعمال قواعد نسخه پین‌شده upstream برای `SKILL.md`، `references/writing-style.md` و `references/orthography.md`.
+4. اجرای Naturalness و Orthography pass پیش از تحویل.
+5. در خروجی فایل‌محور، اعمال reference مرتبط با RTL/format از همان نسخه پین‌شده.
+
+Skip کردن این مرحله بدون دلیل مستند مجاز نیست.
 
 ## Decision Lens
 
@@ -144,10 +158,14 @@ Contrarian بدون Evidence ممنوع است.
 
 **Hook → Tension → Evidence → Reframe → Decision**
 
-سپس چهار Pass انجام شود:
+پیش از نوشتن:
+### Pass 0 — Register
+Register بر اساس نوع artifact، مخاطب و کانال تعیین و در کل خروجی ثابت نگه داشته شود.
+
+سپس پنج Pass انجام شود:
 
 ### Pass 1 — Persian Naturalness
-ترجمه‌زدگی و عبارت ماشینی حذف شود.
+ترجمه‌زدگی، عبارت ماشینی، نثر اداری مصنوعی و AI-tellهای شناخته‌شده بر اساس Persian Writing Baseline حذف شوند.
 
 ### Pass 2 — Compression
 تکرار و مقدمه غیرضروری حذف شود.
@@ -157,6 +175,9 @@ Contrarian بدون Evidence ممنوع است.
 
 ### Pass 4 — Extraction
 پاراگراف مهم مستقل و قابل نقل شود.
+
+### Pass 5 — Orthography
+نیم‌فاصله، ی/ک فارسی، اعداد، punctuation، هکسره و یکدستی رسم‌الخط بر اساس Persian Writing Baseline کنترل شوند.
 
 ## Risk Review
 
