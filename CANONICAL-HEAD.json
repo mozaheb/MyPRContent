@@ -4,7 +4,7 @@
   "scope": "cross-media personal brand, PR and content",
   "effective_date": "2026-09-22",
   "strategy_version": "2.0",
-  "language_system_version": "1.0",
+  "language_system_version": "1.1",
   "trend_radar_version": "1.0",
   "publication_system_version": "1.0",
   "content_season_version": "1.0",
@@ -23,6 +23,7 @@
     "strategy/persian-headline-system.md",
     "language/persian-voice-and-tone.md",
     "language/persian-writing-standard.md",
+    "language/persian-writing-external-baseline.md",
     "language/persian-canonical-lexicon.md",
     "ai/persian-content-reasoning-protocol.md",
     "templates/persian-content-output-contract.md",
@@ -45,5 +46,15 @@
   ],
   "time_bound_research": [
     "research/persian-social-patterns-2026-09.md"
-  ]
+  ],
+  "external_normative_dependencies": {
+    "persian_writing": {
+      "repository": "ali2000hos/persian-writing",
+      "version": "1.3.6",
+      "pinned_commit": "35eb7a504f587e5baea4975476764f575773fa6b",
+      "entrypoint": "SKILL.md",
+      "local_baseline": "language/persian-writing-external-baseline.md",
+      "scope": "mandatory Persian prose, orthography and RTL baseline"
+    }
+  }
 }
