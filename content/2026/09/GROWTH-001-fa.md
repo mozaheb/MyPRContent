@@ -71,7 +71,34 @@ published_date: 2026-09-22
 ## Measurement
 
 ### T+24h
-pending
+
+Capture timing: حدود ۲۳ ساعت پس از انتشار، بر اساس LinkedIn Post Analytics.
+
+- Impressions: 980
+- Members reached: 612
+- In-network distribution: 40%
+- Out-of-network distribution: 60%
+- Social engagements: 22
+- Reactions: 20
+- Comments: 2
+- Reposts: 0
+- Saves: 0
+- Sends on LinkedIn: 0
+- Profile viewers from this post: 4
+- Followers gained: 0
+- Observed social engagements / impressions: 2.24%
+- Observed social engagements / reached members: 3.59%
+
+Top demographics shown by LinkedIn:
+- Seniority — Entry: 36%
+- Location — Mashhad: 26%
+- Industry — Software Development: 22%
+- Company size — 51–200 employees: 18%
+- Job title — Software Engineer: 5%
+
+Business-signal fields not visible in the supplied analytics:
+- Qualified DMs: not captured
+- Opportunity signal: not captured
 
 ### T+72h
 pending
@@ -84,4 +111,15 @@ pending
 
 ## Learning
 
-pending
+### Early Learning — T+24h
+
+1. **Distribution:** 60% of distribution was out-of-network. The topic and opening earned discovery beyond direct followers/connections.
+2. **Audience:** visible audience skew is currently more junior/software-oriented than the target Founder/CEO/C-Level core. This is a distribution signal to watch across multiple posts, not a reason to change strategy from one post.
+3. **Authority conversion:** 4 profile views show some author curiosity, but 0 follower gain means attention has not yet converted into durable audience growth.
+4. **Reference value:** 0 saves, 0 reposts and 0 sends suggest the post worked more as an observation/conversation asset than as a reference asset.
+5. **Next-content implication:** keep the human/operator voice, but add stronger executive framing, evidence, decision logic or a reusable framework in subsequent posts.
+6. **CTA learning:** 2 comments indicate some conversation, but the next CTA should invite a concrete managerial experience or decision rather than a broad opinion.
+
+### Decision
+
+Do not change the core strategy based on one post. Continue the Season 01 cadence and compare this pattern against T+72h, T+7d and the next 3–5 posts.
