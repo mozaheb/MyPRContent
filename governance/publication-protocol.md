@@ -1,7 +1,7 @@
 # Publication & Post-Publication Protocol
 
 Status: Canonical
-Version: 1.0
+Version: 1.1
 Effective: 2026-09-22
 
 ## هدف
@@ -33,7 +33,7 @@ Effective: 2026-09-22
 4. تیتر بیشتر از متن وعده ندهد.
 5. Fact، Interpretation و Prediction تفکیک شوند.
 6. محرمانگی رعایت شود.
-7. فارسی طبیعی باشد.
+7. فارسی طبیعی باشد و `language/persian-writing-external-baseline.md` را از نظر Register، Naturalness و Orthography پاس کند.
 8. CTA از جنس Engagement Bait نباشد.
 9. نسخه کانال بومی شده باشد.
 10. شناسه و Metadata ثبت شده باشد.
