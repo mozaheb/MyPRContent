@@ -92,7 +92,11 @@
         "references/orthography.md"
       ],
       "local_governance": "language/persian-writing-external-baseline.md",
-      "update_policy": "pinned; upstream changes require review before becoming normative"
+      "update_policy": "pinned; upstream changes require review before becoming normative",
+      "local_snapshot": "vendor/persian-writing/v1.3.6",
+      "local_universal": "vendor/persian-writing/v1.3.6/persian-writing-universal.md",
+      "local_source_mirror": "vendor/persian-writing/v1.3.6/source",
+      "availability_policy": "local-first resilience; upstream not required for execution"
     }
   }
 }
