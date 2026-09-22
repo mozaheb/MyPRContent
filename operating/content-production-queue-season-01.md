@@ -65,6 +65,35 @@ Operational cadence for the next 2 weeks:
 - Do not change core strategy from one post; evaluate patterns across at least 3–5 posts.
 - Preserve narrative order and evidence gates from Season 01.
 
+## 14-Day LinkedIn Publication Plan — 2026-09-23 to 2026-10-06
+
+هدف: حفظ ریتم ۳ محتوای اصلی در هفته، بدون عبور از Evidence Gate و بدون نتیجه‌گیری عجولانه از یک پست.
+
+| Date | Day | Content | Role / Format | Gate before publish | Measurement |
+|---|---|---|---|---|---|
+| 2026-09-23 | 1 | GROWTH-014 | Operator/POV — Text + Insight Cover | Final language + cover check | T+24h on Sep 24; T+72h on Sep 26 |
+| 2026-09-26 | 4 | GROWTH-002 | Evidence/Decision — Text + Cover | Existing ready-to-publish gate | T+24h on Sep 27; T+72h on Sep 29 |
+| 2026-09-28 | 6 | GROWTH-003 | Short video | Real implementation example must be captured by Sep 27; otherwise hold | T+24h / T+72h |
+| 2026-10-01 | 9 | GROWTH-004 | Carousel | Real process map required; otherwise hold | T+24h / T+72h |
+| 2026-10-03 | 11 | GROWTH-005 | Text | Real repetitive workflow required; otherwise hold | T+24h / T+72h |
+| 2026-10-06 | 14 | RETHINK-001 | Operator synthesis — Video | Synthesis must be grounded in operator evidence from prior posts | T+24h / T+72h |
+
+### Between-post operating rhythm
+
+- روز بعد از هر انتشار: T+24h Capture؛ impressions، reach، out-of-network، reactions، comments، saves، reposts، profile views، follower delta، qualified comments/DMs.
+- حدود 72 ساعت بعد: Distribution + Conversation Review.
+- روزهای بدون انتشار برای جمع‌آوری Evidence، پاسخ باکیفیت به کامنت‌ها و آماده‌سازی محتوای بعدی استفاده شوند.
+- اگر Evidence یک محتوای صف آماده نیست، آن پست منتشر نشود و صرفاً برای حفظ تقویم با محتوای ضعیف جایگزین نشود.
+- ساعت انتشار فعلاً ثابت نگه داشته شود تا Timing به‌عنوان متغیر مخدوش‌کننده وارد آزمایش نشود؛ بعد از چند پست می‌توان Timing را جداگانه آزمود.
+- تصمیم راهبردی فقط بر اساس الگوی حداقل 3–5 پست گرفته شود.
+
+### Weekly mix
+
+- Operator/POV: هویت فکری و تجربه مدیر.
+- Evidence/Decision: شاهد، تصمیم، Case یا Framework.
+- Format variation: ویدئو، Carousel یا Data برای جلوگیری از یکنواختی.
+
+
 ## Immediate Next Actions
 
 1. Publish GROWTH-014 as the next post.
