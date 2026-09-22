@@ -29,6 +29,20 @@ AGENTS source blob SHA: `16762ce703e813fbfe806cb224a9403b46673f08`
 README source blob SHA: `d1dc25a6f2115bcd1d7c9c34eda6209d07fcccc5`
 LICENSE source blob SHA: `9404273b4567eb3761d4e25f2e78fdef86eb3cd2`
 
-## Scope note
+## Preserved content
 
-This snapshot preserves the **knowledge/instructions** of the skill. Binary font files, screenshots, and the multi-megabyte spell-check dictionary are package assets rather than normative writing knowledge and are not required for the language-policy fallback. Their provenance remains recorded upstream.
+This snapshot preserves:
+- the upstream self-contained universal knowledge edition;
+- SKILL.md, AGENTS.md, README.md and LICENSE;
+- the text-based references used for writing, orthography, academic, content, social, SEO, RTL and document formats;
+- the upstream Python/shell tooling source and eval definitions.
+
+## Asset boundary
+
+Binary font files, screenshots, and the multi-megabyte spell-check dictionary are package assets rather than normative writing knowledge. They are not required for the language-policy fallback and are not asserted here as locally archived.
+
+Therefore:
+- **Persian-writing knowledge and rules are locally preserved.**
+- **The full binary distribution is not claimed to be mirrored.**
+
+If full offline package restoration including fonts and the spell-check dictionary becomes a requirement, those binary assets should be archived separately.
