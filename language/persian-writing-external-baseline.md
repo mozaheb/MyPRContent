@@ -16,6 +16,9 @@ Effective: 2026-09-22
 - Upstream version: 1.3.6
 - Pinned commit: `35eb7a504f587e5baea4975476764f575773fa6b`
 - Entry point: `SKILL.md`
+- Local resilience snapshot: `vendor/persian-writing/v1.3.6/`
+- Local self-contained knowledge: `vendor/persian-writing/v1.3.6/persian-writing-universal.md`
+- Local mirrored source: `vendor/persian-writing/v1.3.6/source/`
 - Always-required references for Persian prose:
   - `references/writing-style.md`
   - `references/orthography.md`
@@ -95,3 +98,14 @@ Effective: 2026-09-22
 - این dependency حداقل هم‌زمان با review دوره‌ای Language Core بررسی شود.
 - تغییر upstream فقط پس از بررسی release notes و نمونه‌های regression وارد SSOT شود.
 - هنگام ارتقا، `upstream version` و `pinned commit` در این سند، `CANONICAL-HEAD.json` و `ssot/MANIFEST.json` هماهنگ شوند.
+
+
+## Local-First Resilience Rule
+
+نسخه vendorشده داخل MyPRContent بخشی از SSOT است و برای تداوم دانش نگهداری می‌شود.
+
+- برای اجرای روزمره، قواعد Canonical داخلی MyPRContent مقدم‌اند.
+- برای جزئیات Persian Writing، ابتدا snapshot محلی نسخه پین‌شده قابل استفاده است.
+- upstream فقط برای provenance، بررسی نسخه‌های جدید و upgrade review لازم است.
+- اگر مخزن upstream حذف، خصوصی، جابه‌جا یا غیرقابل‌دسترسی شود، نسخه محلی بدون تغییر همچنان مرجع معتبر همان نسخه 1.3.6 است.
+- هیچ حذف upstream نباید اجرای Language System را block کند.
