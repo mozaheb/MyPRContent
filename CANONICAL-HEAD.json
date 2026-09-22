@@ -54,7 +54,11 @@
       "pinned_commit": "35eb7a504f587e5baea4975476764f575773fa6b",
       "entrypoint": "SKILL.md",
       "local_baseline": "language/persian-writing-external-baseline.md",
-      "scope": "mandatory Persian prose, orthography and RTL baseline"
+      "scope": "mandatory Persian prose, orthography and RTL baseline",
+      "local_snapshot": "vendor/persian-writing/v1.3.6",
+      "local_universal": "vendor/persian-writing/v1.3.6/persian-writing-universal.md",
+      "local_source_mirror": "vendor/persian-writing/v1.3.6/source",
+      "resilience_policy": "local snapshot remains normative if upstream becomes unavailable"
     }
   }
 }
