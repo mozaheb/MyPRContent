@@ -55,11 +55,21 @@ No content may skip Evidence Needed when its required token is not yet available
 | 29 | GROWTH-012 | سیگنال، تصمیم، سیستم، آزمایش، مقیاس. | Carousel | Season synthesis | Blocked by prior evidence |
 | 30 | GROWTH-013 | رشد را نمی‌شود فقط هک کرد؛ باید معماری کرد. | Manifesto | Season evidence | Blocked by prior evidence |
 
+## LinkedIn Cadence Test
+
+Operational cadence for the next 2 weeks:
+- Target: 3 master posts per week.
+- Spacing: roughly every 2–3 days; avoid daily posting by default.
+- Weekly mix: 1 Operator/POV + 1 Evidence/Decision + 1 format variation (video/carousel/data) when evidence is ready.
+- After each publication: capture T+24h and T+72h before drawing conclusions.
+- Do not change core strategy from one post; evaluate patterns across at least 3–5 posts.
+- Preserve narrative order and evidence gates from Season 01.
+
 ## Immediate Next Actions
 
 1. Publish GROWTH-014 as the next post.
 2. Publish or finalize GROWTH-002 immediately after the Operator Interlude.
-3. Capture T+24h / T+72h learning from GROWTH-001.
+3. Capture T+72h learning from GROWTH-001; T+24h is now recorded.
 4. Select one real implementation case for GROWTH-003.
 5. Prevent headline-formula repetition across the next three publications.
 6. Build a reusable Evidence Intake note for operator examples as they occur.
