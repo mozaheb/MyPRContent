@@ -40,7 +40,8 @@
   },
   "operational": {
     "content_registry": "content/CONTENT-REGISTRY.md",
-    "content_production_queue_season_01": "operating/content-production-queue-season-01.md"
+    "content_production_queue_season_01": "operating/content-production-queue-season-01.md",
+    "story_hook_content_engine": "ai/skills/story-hook-content-engine/SKILL.md"
   },
   "time_bound_research": {
     "persian_social_patterns": "research/persian-social-patterns-2026-09.md"
