@@ -16,9 +16,9 @@ No content may skip Evidence Needed when its required token is not yet available
 
 | Priority | ID | Working Title | Format | Evidence Token | Status |
 |---:|---|---|---|---|---|
-| NEXT | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text | Operator observation | Ready-to-publish |
+| DONE | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text + Insight Cover | Operator observation | Published |
 
-این محتوا خارج از توالی اصلی ۳۰ محتوای Season 01 و برای حفظ ریتم Operator/Human منتشر می‌شود. پس از آن، توالی اصلی با GROWTH-002 ادامه پیدا می‌کند.
+این Operator Interlude در 2026-09-23 منتشر شد. توالی اصلی Season 01 اکنون با GROWTH-002 ادامه پیدا می‌کند.
 
 ## Queue
 
@@ -71,7 +71,7 @@ Operational cadence for the next 2 weeks:
 
 | Date | Day | Content | Role / Format | Gate before publish | Measurement |
 |---|---|---|---|---|---|
-| 2026-09-23 | 1 | GROWTH-014 | Operator/POV — Text + Insight Cover | Final language + cover check | T+24h on Sep 24; T+72h on Sep 26 |
+| 2026-09-23 | 1 | GROWTH-014 | Operator/POV — Text + Insight Cover | Published | T+24h on Sep 24; T+72h on Sep 26 |
 | 2026-09-26 | 4 | GROWTH-002 | Evidence/Decision — Text + Cover | Existing ready-to-publish gate | T+24h on Sep 27; T+72h on Sep 29 |
 | 2026-09-28 | 6 | GROWTH-003 | Short video | Real implementation example must be captured by Sep 27; otherwise hold | T+24h / T+72h |
 | 2026-10-01 | 9 | GROWTH-004 | Carousel | Real process map required; otherwise hold | T+24h / T+72h |
@@ -96,8 +96,8 @@ Operational cadence for the next 2 weeks:
 
 ## Immediate Next Actions
 
-1. Publish GROWTH-014 as the next post.
-2. Publish or finalize GROWTH-002 immediately after the Operator Interlude.
+1. GROWTH-014 published on 2026-09-23; capture T+24h on 2026-09-24.
+2. GROWTH-002 is the next publication; keep the planned spacing unless new evidence justifies a change.
 3. Capture T+72h learning from GROWTH-001; T+24h is now recorded.
 4. Select one real implementation case for GROWTH-003.
 5. Prevent headline-formula repetition across the next three publications.
