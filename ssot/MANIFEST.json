@@ -43,6 +43,9 @@
     "content_production_queue_season_01": "operating/content-production-queue-season-01.md",
     "story_hook_content_engine": "ai/skills/story-hook-content-engine/SKILL.md"
   },
+  "proposals": {
+    "instagram_content_strategy_v1": "strategy/instagram-content-strategy-proposal-v1.md"
+  },
   "time_bound_research": {
     "persian_social_patterns": "research/persian-social-patterns-2026-09.md"
   },
@@ -53,6 +56,7 @@
     "approved published content",
     "active production queue",
     "time-bound trend research",
+    "registered strategy proposals",
     "working drafts"
   ],
   "mandatory_rules": [
@@ -74,6 +78,7 @@
     "strategy": "quarterly or on material positioning change",
     "content_season_01": "every 4 weeks and at season close",
     "production_queue": "weekly",
+    "instagram_content_strategy_proposal": "after 20-30 reels or 90 days, whichever provides sufficient evidence",
     "language_core": "semiannual or on material voice change",
     "global_trend_radar": "weekly",
     "persian_trend_research": "monthly or quarterly",
