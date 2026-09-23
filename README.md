@@ -55,6 +55,16 @@ https://lnkd.in/p/dT8AsPhy
 
 هدف، ترجمه محتوای جهانی نیست؛ استخراج مکانیسم و ساخت اجرای اصیل است.
 
+## AI Content Engine
+
+برای طراحی Hook، Retention و روایت، مرجع عملیاتی زیر استفاده می‌شود:
+
+- `ai/skills/story-hook-content-engine/SKILL.md`
+
+این Skill ابتدا Story Fit را می‌سنجد و بین Narrative-first، Hybrid و Direct-first انتخاب می‌کند.
+
+Storytelling در MyPRContent ابزار است؛ نه قالب اجباری.
+
 ## Persian Content System
 
 > **ساده برای فهم، سخت برای فراموش‌کردن.**
@@ -93,3 +103,4 @@ Follower Count به‌تنهایی KPI راهبردی نیست.
 6. strategy/signature-series.md
 7. research/global-trend-radar.md
 8. governance/publication-protocol.md
+9. ai/skills/story-hook-content-engine/SKILL.md
