@@ -1,8 +1,8 @@
 {
-  "schema_version": "2.4",
+  "schema_version": "2.5",
   "ssot": "MyPRContent",
   "scope": "cross-media personal brand, PR and content",
-  "effective_date": "2026-09-22",
+  "effective_date": "2026-09-23",
   "strategy_version": "2.0",
   "language_system_version": "1.1",
   "trend_radar_version": "1.0",
@@ -60,6 +60,18 @@
       "local_universal": "vendor/persian-writing/v1.3.6/persian-writing-universal.md",
       "local_source_mirror": "vendor/persian-writing/v1.3.6/source",
       "resilience_policy": "local snapshot remains normative if upstream becomes unavailable"
+    }
+  },
+  "ai_skills": {
+    "story_hook_content_engine": {
+      "version": "2.0",
+      "entrypoint": "ai/skills/story-hook-content-engine/SKILL.md",
+      "references": [
+        "ai/skills/story-hook-content-engine/references/routing-and-channel-profiles.md",
+        "ai/skills/story-hook-content-engine/references/hook-pattern-library.md",
+        "ai/skills/story-hook-content-engine/references/quality-gate.md"
+      ],
+      "status": "active"
     }
   }
 }
