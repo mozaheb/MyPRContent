@@ -1,8 +1,8 @@
 # Persian AI Content Reasoning Protocol
 
 Status: Canonical
-Version: 1.1
-Effective: 2026-09-22
+Version: 1.2
+Effective: 2026-09-23
 
 ## هدف
 
@@ -95,6 +95,27 @@ Skip کردن این مرحله بدون دلیل مستند مجاز نیست.
 **این محتوا دقیقاً چه چیزی را در ذهن یا تصمیم مخاطب تغییر می‌دهد؟**
 
 اگر بیش از یک ایده اصلی وجود دارد، محتوا تقسیم شود.
+
+## Narrative Hook Skill — Conditional
+
+برای محتوای روایی یا محتوایی که به افزایش کشش و ماندگاری نیاز دارد، از `ai/skills/story-hook-content-engine/SKILL.md` استفاده شود.
+
+زمان فعال‌سازی:
+- سناریوی ریلز یا ویدئوی کوتاه؛
+- پست لینکدین با ساختار روایی؛
+- کپشن داستانی؛
+- تبدیل تجربه، داده یا اصطکاک عملیاتی به روایت؛
+- بازنویسی محتوای خشک برای افزایش Retention؛
+- تحلیل مکانیزم قلاب و افشای تدریجی در یک نمونه.
+
+این Skill پس از Content Distillation و پیش از Draft Protocol اجرا شود.
+
+ترتیب تقدم در تعارض:
+**Strategy → Evidence → Confidentiality → Persian Language Baseline → Channel Constraints → Story Hook Skill**
+
+این Skill مجاز به ساخت تجربه، نقل‌قول، عدد یا رخداد جعلی نیست.
+
+از نمونه‌ها فقط «مکانیزم» منتقل شود؛ نه جمله، ظاهر یا داستان اصلی.
 
 ## Contrarian Test
 
