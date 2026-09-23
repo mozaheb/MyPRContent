@@ -42,7 +42,8 @@
   ],
   "operational_documents": [
     "content/CONTENT-REGISTRY.md",
-    "operating/content-production-queue-season-01.md"
+    "operating/content-production-queue-season-01.md",
+    "ai/skills/story-hook-content-engine/SKILL.md"
   ],
   "time_bound_research": [
     "research/persian-social-patterns-2026-09.md"
