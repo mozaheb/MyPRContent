@@ -1,7 +1,7 @@
 # Persian AI Content Reasoning Protocol
 
 Status: Canonical
-Version: 1.2
+Version: 1.3
 Effective: 2026-09-23
 
 ## هدف
@@ -96,26 +96,43 @@ Skip کردن این مرحله بدون دلیل مستند مجاز نیست.
 
 اگر بیش از یک ایده اصلی وجود دارد، محتوا تقسیم شود.
 
-## Narrative Hook Skill — Conditional
+## Narrative & Retention Skill — Conditional
 
-برای محتوای روایی یا محتوایی که به افزایش کشش و ماندگاری نیاز دارد، از `ai/skills/story-hook-content-engine/SKILL.md` استفاده شود.
+برای طراحی Hook، Retention، Progressive Disclosure یا روایت، از `ai/skills/story-hook-content-engine/SKILL.md` نسخه ثبت‌شده در SSOT استفاده شود.
 
-زمان فعال‌سازی:
-- سناریوی ریلز یا ویدئوی کوتاه؛
-- پست لینکدین با ساختار روایی؛
-- کپشن داستانی؛
-- تبدیل تجربه، داده یا اصطکاک عملیاتی به روایت؛
-- بازنویسی محتوای خشک برای افزایش Retention؛
-- تحلیل مکانیزم قلاب و افشای تدریجی در یک نمونه.
+این Skill «Storytelling اجباری» نیست.
 
-این Skill پس از Content Distillation و پیش از Draft Protocol اجرا شود.
+پیش از فعال‌سازی باید این موارد حل شوند:
+1. Content Job
+2. Core Claim
+3. Evidence Token
+4. Signature Series
+5. Channel
+6. Confidentiality
 
-ترتیب تقدم در تعارض:
-**Strategy → Evidence → Confidentiality → Persian Language Baseline → Channel Constraints → Story Hook Skill**
+سپس Story Fit Test اجرا شود و یکی از سه حالت انتخاب شود:
+- Narrative-first
+- Hybrid
+- Direct-first
 
-این Skill مجاز به ساخت تجربه، نقل‌قول، عدد یا رخداد جعلی نیست.
+منابع پشتیبان Skill:
+- `ai/skills/story-hook-content-engine/references/routing-and-channel-profiles.md`
+- `ai/skills/story-hook-content-engine/references/hook-pattern-library.md`
+- `ai/skills/story-hook-content-engine/references/quality-gate.md`
 
-از نمونه‌ها فقط «مکانیزم» منتقل شود؛ نه جمله، ظاهر یا داستان اصلی.
+ترتیب تقدم:
+**Strategy → Evidence → Confidentiality → Canonical Terminology → Persian Language Baseline → Channel Constraints → Signature Series → Story Hook Skill → Trend Tactics**
+
+قواعد اجباری:
+- Evidence قبل از Storytelling حل شود.
+- تجربه، نقل‌قول، عدد و Case ساخته نشود.
+- Storytelling حق تأخیر غیرضروری در پاسخ مدیریتی را ندارد.
+- در محتوای AI Search یا Citation-oriented، Answer-first حفظ شود.
+- Mechanism نمونه خارجی منتقل شود؛ نه ظاهر، جمله یا شخصیت Creator.
+- Skill باید Quality Gate حداقل 90/100 را بدون Hard Fail پاس کند.
+- اگر Evidence ناکافی است، وضعیت `Evidence Needed` حفظ شود و ready-to-publish اعلام نشود.
+
+این Skill پس از Content Distillation و پیش از Draft Protocol اجرا می‌شود.
 
 ## Contrarian Test
 
