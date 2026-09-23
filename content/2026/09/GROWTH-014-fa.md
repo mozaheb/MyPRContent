@@ -1,6 +1,6 @@
 ---
 id: GROWTH-014-fa-v2
-date: 2026-09-22
+date: 2026-09-23
 language: fa
 series: GROWTH
 channel: LinkedIn
@@ -18,7 +18,10 @@ canonical_terms:
   - سیستم‌سازی
 cover_template: insight
 cta_type: operator-experience
-status: ready-to-publish
+status: published
+linkedin_url: https://www.linkedin.com/posts/yousof-mozaheb_%D8%B8%D8%A7%D9%87%D8%B1-%D8%B4%D9%87%D8%B1-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B9%D8%A7%D8%AF%DB%8C%D8%A8%D9%88%D8%AF%D9%86-%D9%87%D8%A7-activity-7508493753884643328-hAIF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABLOgrABY6NOs1p7CBh9ot3xYy5ZWUky0xM
+published_date: 2026-09-23
+publication_verification: user-confirmed-live-url
 ---
 
 # GROWTH / 014 — LinkedIn
@@ -113,3 +116,17 @@ status: ready-to-publish
 - نتیجه از تحسین عمومی به «دانش مدیریتی قابل انتقال» متصل شد.
 - CTA به تجربه واقعی مدیر/بنیان‌گذار تغییر کرد تا کیفیت کامنت‌ها بهتر سنجیده شود.
 - ادعاهای کلان و سیاسی حذف شدند؛ متن بر مشاهده مدیریتی و عدم‌قطعیت عملیاتی متمرکز ماند.
+
+
+## Publication Record
+
+- Status: published
+- Channel: LinkedIn
+- Published date: 2026-09-23
+- URL: https://www.linkedin.com/posts/yousof-mozaheb_%D8%B8%D8%A7%D9%87%D8%B1-%D8%B4%D9%87%D8%B1-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B9%D8%A7%D8%AF%DB%8C%D8%A8%D9%88%D8%AF%D9%86-%D9%87%D8%A7-activity-7508493753884643328-hAIF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABLOgrABY6NOs1p7CBh9ot3xYy5ZWUky0xM
+- Verification: انتشار و URL توسط کاربر در گفتگو تأیید شد. واکشی مستقیم صفحه LinkedIn از محیط ابزار در زمان ثبت در دسترس نبود.
+- Measurement windows: T+24h = 2026-09-24; T+72h = 2026-09-26; T+7d = 2026-09-30; T+30d = 2026-10-23.
+
+### Published Variant Note
+
+نسخه کوتاه‌شده مبتنی بر Story Hook Content Engine بلافاصله پیش از انتشار آماده شد. چون متن صفحه LinkedIn مستقلاً واکشی نشد، فایل Canonical ادعای تطابق واژه‌به‌واژه با نسخه زنده ندارد؛ URL زنده مرجع نهایی نسخه منتشرشده است.
