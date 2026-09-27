@@ -44,7 +44,8 @@
     "story_hook_content_engine": "ai/skills/story-hook-content-engine/SKILL.md"
   },
   "proposals": {
-    "instagram_content_strategy_v1": "strategy/instagram-content-strategy-proposal-v1.md"
+    "instagram_content_strategy_v1": "strategy/instagram-content-strategy-proposal-v1.md",
+    "reza_mostafa_schema_informed_systemization_strategy_v1": "strategy/reza-mostafa-schema-informed-systemization-strategy-v1.md"
   },
   "time_bound_research": {
     "persian_social_patterns": "research/persian-social-patterns-2026-09.md"
@@ -85,7 +86,8 @@
     "publication_learning": "T+24h, T+72h, T+7d, T+30d when relevant",
     "trend_layer": "quarterly",
     "kpis": "monthly",
-    "cover_system": "semiannual or when channel behavior materially changes"
+    "cover_system": "semiannual or when channel behavior materially changes",
+    "reza_mostafa_schema_informed_systemization_strategy": "after at least 5 published contents using the Human Tension Layer, then quarterly if retained"
   },
   "external_normative_dependencies": {
     "persian_writing": {
