@@ -1,0 +1,185 @@
+# استراتژی سیستم‌سازی برای روزهای سخت با لایه طرحواره‌ای — منتسب به رضا مصطفی
+
+Status: Proposed  
+Version: 1.0  
+Effective: 2026-09-27  
+Attribution: Reza Mostafa (رضا مصطفی)  
+Owner: Yousef Mozaheb  
+Scope: Cross-channel content strategy / Human Tension Layer / Systemization  
+Parent strategy: `strategy/master-strategy-v2.md`  
+Content season: `strategy/content-season-01.md`  
+Governance: This document is a strategic proposal and does not override canonical strategy.
+
+---
+
+## 1. ثبت منشأ
+
+این سند، «استراتژی اتصال طرحواره‌های یانگ به روایت سیستم‌سازی برای روزهای سخت» را به نام **آقای رضا مصطفی** ثبت می‌کند.
+
+تفکیک مالکیت فکری:
+
+- نظریه «طرحواره‌های ناسازگار اولیه» و چارچوب ۱۸ طرحواره، متعلق به **Jeffrey Young / Schema Therapy** است.
+- کاربرد راهبردی این چارچوب برای تبدیل دردهای روز جامعه و سازمان به محتوای سیستم‌سازی، در این SSOT به نام **رضا مصطفی** ثبت می‌شود.
+- این Attribution به معنی انتساب نظریه طرحواره‌درمانی به رضا مصطفی نیست.
+
+---
+
+## 2. هدف راهبرد
+
+هدف این لایه، روان‌شناسی‌کردن محتوای کسب‌وکار یا تشخیص مخاطب نیست.
+
+هدف این است که پیش از تولید محتوا، علاوه بر درد بیرونی، «تنش انسانی پشت رفتار سازمانی» نیز دیده شود.
+
+مدل:
+
+**External Pain → Human Tension → Organizational Behavior → Friction → System Response**
+
+این مدل باید در امتداد مدل Canonical برند استفاده شود:
+
+**Signal → Decision → System → Experiment → Scale**
+
+---
+
+## 3. اصل مرکزی
+
+شرایط سخت فقط ضعف سیستم را آشکار نمی‌کند؛ ضعف سیستم می‌تواند رفتار انسان را هم واکنشی‌تر کند.
+
+نمونه چرخه:
+
+**Pressure → Fear/Control/Delay → Manual Behavior → More Friction → More Pressure**
+
+پاسخ راهبردی:
+
+**Trigger → Rule → Owner → Action → Feedback**
+
+هدف محتوا، تشخیص طرحواره نیست؛ نشان‌دادن این است که چگونه یک سیستم بهتر می‌تواند وابستگی به حافظه، اضطراب، پیگیری و واکنش لحظه‌ای را کاهش دهد.
+
+---
+
+## 4. Human Tension Layer
+
+برای هر ایده محتوایی، پس از شناسایی Pain، این سؤال بررسی شود:
+
+> این موقعیت، چه نگرانی یا الگوی رفتاری انسانی را می‌تواند فعال کند و آن واکنش چگونه به اصطکاک سازمانی تبدیل می‌شود؟
+
+خروجی این لایه نباید با نام طرحواره به مخاطب ارائه شود مگر در محتوای آموزشی صریح درباره روان‌شناسی.
+
+قاعده پیش‌فرض:
+
+**Internal schema lens → Observable behavior → Business reframe → System response**
+
+---
+
+## 5. نگاشت ۱۸ طرحواره به سیستم‌سازی
+
+| طرحواره | تنش انسانی/سازمانی محتمل | پاسخ سیستم‌سازی |
+|---|---|---|
+| رهاشدگی / بی‌ثباتی | ترس از از دست‌دادن فرد، مشتری یا تأمین‌کننده | Redundancy، جانشین، کانال دوم |
+| بی‌اعتمادی / بدرفتاری | کنترل دستی و Micromanagement | Audit Trail، سطح دسترسی، کنترل سیستمی |
+| محرومیت هیجانی | تمرکز فشار و مسئولیت روی مدیر | Shared Context، Visibility |
+| نقص / شرم | پنهان‌کردن خطا و خبر بد | Early Warning، Blameless Reporting |
+| انزوای اجتماعی | جزیره‌ای‌شدن واحدها | Shared Process، Shared Data |
+| وابستگی / بی‌کفایتی | انتظار دائمی برای تصمیم مدیر | Decision Rights، Playbook |
+| آسیب‌پذیری در برابر خطر | تصمیم واکنشی و ترس‌محور | Scenario Planning، Trigger، Contingency |
+| درهم‌تنیدگی / خود تحول‌نیافته | فرایند وابسته به «یک نفر» | SOP، Knowledge Base، Role Design |
+| شکست | انفعال یا پروژه‌های بزرگ و کم‌احتمال | Small Experiments، Feedback Loop |
+| استحقاق / بزرگ‌منشی | دورزدن فرایند | Rule-based Process |
+| خویشتن‌داری ناکافی | آتش‌نشانی و اولویت‌های لحظه‌ای | Prioritization، Thresholds |
+| اطاعت | اجرای بدون Challenge | Decision Protocol، Dissent |
+| ایثار | فرسودگی از انجام همه کارها | Delegation، Automation |
+| تأییدطلبی | تقلید از رقبا یا تصمیم نمایشی | Outcome KPI |
+| منفی‌گرایی / بدبینی | فلج تحلیلی و تمرکز افراطی بر ریسک | Risk-adjusted Experiment |
+| بازداری هیجانی | انتقال دیرهنگام خبر بد | Safe Escalation، Signal Reporting |
+| معیارهای سخت‌گیرانه | Overengineering و تأخیر | Minimum Viable Process |
+| تنبیه‌گری | مقصرجویی و پنهان‌کاری | Root Cause، Postmortem |
+
+---
+
+## 6. قواعد استفاده در محتوا
+
+1. مخاطب با نام طرحواره تشخیص‌گذاری نشود.
+2. از ترس، شرم یا آسیب‌پذیری مخاطب برای Engagement bait استفاده نشود.
+3. Hook از رفتار قابل مشاهده ساخته شود، نه از برچسب روان‌شناختی.
+4. نتیجه همیشه به یک Reframe مدیریتی یا System Response برسد.
+5. هر محتوا همچنان باید Evidence Token واقعی داشته باشد.
+6. این لایه زیرمجموعه Strategy است و حق تغییر Positioning برند را ندارد.
+7. Business Growth Architecture و مدل Signal → Decision → System → Experiment → Scale مرجع بالادست باقی می‌مانند.
+
+---
+
+## 7. الگوی محتوایی پیشنهادی
+
+**Pain → Human Tension → Observable Behavior → Hidden Cost → Reframe → System Design → Decision**
+
+نمونه:
+
+**Pain:** بی‌ثباتی و فشار عملیاتی  
+**Human Tension:** ترس از خطا یا از دست‌دادن کنترل  
+**Behavior:** همه تصمیم‌ها به مدیر Escalate می‌شوند  
+**Cost:** Decision Latency، خستگی مدیر، توقف تیم  
+**Reframe:** مشکل کمبود مدیر نیست؛ مشکل نبود معماری تصمیم است  
+**System:** Decision Rights + Thresholds + Escalation Rules  
+**Decision:** تصمیم‌های تکراری را از مدیر خارج کن
+
+---
+
+## 8. ارتباط با Season 01
+
+این لایه بیشترین هم‌پوشانی را با فصل‌های زیر دارد:
+
+### Chapter 1 — اصطکاک‌های عادی‌شده
+مشاهده رفتارهای انسانی‌ای که نقص معماری را پنهان می‌کنند.
+
+### Chapter 3 — خروج کار از حافظه انسان
+کاهش وابستگی سازمان به حافظه، پیگیری و حضور فرد.
+
+### Chapter 4 — کیفیت تصمیم مدیرعامل
+جلوگیری از تصمیم واکنشی، Escalation غیرضروری و تأخیر تصمیم.
+
+این سند مجوز تغییر خودکار توالی Season 01 را نمی‌دهد.
+
+---
+
+## 9. محور محتوایی پیشنهادی
+
+نام موقت:
+
+**سیستم‌سازی برای روزهای سخت**
+
+Core Claim:
+
+> سیستم‌سازی برای روزهای عادی ساخته نمی‌شود؛ ارزش آن وقتی روشن می‌شود که فشار، خطا و عدم‌قطعیت بالا می‌روند.
+
+زاویه انسانی:
+
+> هدف سیستم حذف انسان نیست؛ هدف این است که انسان مجبور نباشد هر روز با حافظه، اضطراب و پیگیری، نقص معماری سازمان را جبران کند.
+
+---
+
+## 10. Attribution Rule
+
+در اسناد داخلی SSOT، هنگام ارجاع به این لایه می‌توان از عبارت زیر استفاده کرد:
+
+**Reza Mostafa Schema-Informed Systemization Strategy**
+
+یا در فارسی:
+
+**استراتژی سیستم‌سازی مبتنی بر لایه طرحواره‌ای — رضا مصطفی**
+
+این نام فقط به «کاربرد راهبردی طرحواره‌ها در سیستم‌سازی و محتوا» اشاره دارد.
+
+---
+
+## 11. وضعیت
+
+Status: **Proposed**
+
+این سند تا زمانی که با مجموعه‌ای از محتوای واقعی، Evidence و Learning Review اعتبارسنجی نشود، Canonical نمی‌شود.
+
+معیار پیشنهادی برای ارزیابی:
+
+- حداقل 5 محتوای منتشرشده با این Layer
+- بررسی Qualified Comments / Saves / DMs
+- مقایسه با محتوای بدون Human Tension Layer
+- بررسی اینکه آیا عمق انسانی، Authority را بیشتر کرده یا صرفاً Emotion را بالا برده است
+- تأیید عدم انحراف از Business Growth Architecture
