@@ -7,7 +7,7 @@
   "language_system_version": "1.1",
   "trend_radar_version": "1.0",
   "publication_system_version": "1.0",
-  "content_season_version": "1.0",
+  "content_season_version": "1.1",
   "status": "active",
   "quality_gate": "governance/quality-gate-v2.md",
   "language_quality_gate": "governance/persian-content-system-quality-gate.md",
