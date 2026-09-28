@@ -1,8 +1,9 @@
 # Content Production Queue — Season 01
 
 Status: Active
-Version: 1.0
+Version: 1.1
 Effective: 2026-09-22
+Last updated: 2026-09-29
 Cadence: 3 master contents/week
 Source of strategy: strategy/content-season-01.md
 
@@ -18,16 +19,16 @@ No content may skip Evidence Needed when its required token is not yet available
 |---:|---|---|---|---|---|
 | DONE | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text + Insight Cover | Operator observation | Published |
 
-این Operator Interlude در 2026-09-23 منتشر شد. توالی اصلی Season 01 اکنون با GROWTH-002 ادامه پیدا می‌کند.
+این Operator Interlude در 2026-09-23 منتشر شد. در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
 
 ## Queue
 
 | Seq | ID | Working Title | Format | Evidence Token | Status |
 |---:|---|---|---|---|---|
 | 01 | GROWTH-001 | شماره مشتری را داریم؛ چرا می‌پرسیم کجا بفرستیم؟ | Text | Operator observation | Published |
-| 02 | GROWTH-002 | داده‌ها را داریم؛ پس چرا برای فهمیدنشان باید سؤال کنیم؟ | Text + Cover | Management observation | Ready-to-publish |
-| 03 | GROWTH-003 | نرم‌افزار نصب می‌شود؛ عادت‌های دستی می‌مانند. | Short video | Real implementation | Evidence Needed |
-| 04 | GROWTH-004 | یک کار ساده، بین چند نفر دست‌به‌دست می‌شود. مشکل کجاست؟ | Carousel | Real process map | Evidence Needed |
+| 02 | GROWTH-002 | آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است. | Text + Cover | Real repeated manual-rescue case | Evidence Needed |
+| 03 | GROWTH-003 | هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود. | Short video | Safe real management-rescue case | Evidence Needed |
+| 04 | GROWTH-004 | خبر بدی که دیر به مدیر می‌رسد، معمولاً گران‌تر تمام می‌شود. | Carousel | Real delayed-escalation case | Evidence Needed |
 | 05 | GROWTH-005 | اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است. | Text | Real repetitive workflow | Evidence Needed |
 | 06 | RETHINK-001 | بعضی سازمان‌ها نرم‌افزار بیشتری نمی‌خواهند؛ اصطکاک کمتری می‌خواهند. | Video | Operator synthesis | Planned |
 | 07 | GROWTH-006 | مدیر نباید همه داده‌ها را ببیند؛ باید تغییر مهم را ببیند. | Text | CEO observation | Planned |
@@ -65,18 +66,17 @@ Operational cadence for the next 2 weeks:
 - Do not change core strategy from one post; evaluate patterns across at least 3–5 posts.
 - Preserve narrative order and evidence gates from Season 01.
 
-## 14-Day LinkedIn Publication Plan — 2026-09-23 to 2026-10-06
+## 14-Day LinkedIn Publication Plan — 2026-09-29 to 2026-10-12
 
-هدف: حفظ ریتم ۳ محتوای اصلی در هفته، بدون عبور از Evidence Gate و بدون نتیجه‌گیری عجولانه از یک پست.
+هدف: اجرای سه جایگزین جدید با ریتم ۳ محتوای اصلی در هفته، بدون عبور از Evidence Gate.
 
 | Date | Day | Content | Role / Format | Gate before publish | Measurement |
 |---|---|---|---|---|---|
-| 2026-09-23 | 1 | GROWTH-014 | Operator/POV — Text + Insight Cover | Published | T+24h on Sep 24; T+72h on Sep 26 |
-| 2026-09-26 | 4 | GROWTH-002 | Evidence/Decision — Text + Cover | Existing ready-to-publish gate | T+24h on Sep 27; T+72h on Sep 29 |
-| 2026-09-28 | 6 | GROWTH-003 | Short video | Real implementation example must be captured by Sep 27; otherwise hold | T+24h / T+72h |
-| 2026-10-01 | 9 | GROWTH-004 | Carousel | Real process map required; otherwise hold | T+24h / T+72h |
-| 2026-10-03 | 11 | GROWTH-005 | Text | Real repetitive workflow required; otherwise hold | T+24h / T+72h |
-| 2026-10-06 | 14 | RETHINK-001 | Operator synthesis — Video | Synthesis must be grounded in operator evidence from prior posts | T+24h / T+72h |
+| 2026-09-30 | 1 | GROWTH-002 | POV / Human tension — Text + Cover | Real repeated manual-rescue example required; otherwise hold | T+24h / T+72h |
+| 2026-10-03 | 4 | GROWTH-003 | Operator/Human — Short video | Safe real management-rescue case required; otherwise hold | T+24h / T+72h |
+| 2026-10-06 | 7 | GROWTH-004 | Evidence/Decision — Carousel | Real delayed-escalation case required; otherwise hold | T+24h / T+72h |
+| 2026-10-09 | 10 | GROWTH-005 | Text | Real repetitive workflow required; otherwise hold | T+24h / T+72h |
+| 2026-10-12 | 13 | RETHINK-001 | Operator synthesis — Video | Synthesis must be grounded in operator evidence from prior posts | T+24h / T+72h |
 
 ### Between-post operating rhythm
 
@@ -96,12 +96,22 @@ Operational cadence for the next 2 weeks:
 
 ## Immediate Next Actions
 
-1. GROWTH-014 published on 2026-09-23; capture T+24h on 2026-09-24.
-2. GROWTH-002 is the next publication; keep the planned spacing unless new evidence justifies a change.
-3. Capture T+72h learning from GROWTH-001; T+24h is now recorded.
-4. Select one real implementation case for GROWTH-003.
-5. Prevent headline-formula repetition across the next three publications.
-6. Build a reusable Evidence Intake note for operator examples as they occur.
+1. Capture one واقعی و قابل‌انتشار از جایی که یک فرد مسئولیت‌پذیر با جبران دستی، نقص سیستم را پنهان کرده است؛ این Evidence برای GROWTH-002 است.
+2. برای GROWTH-003 یک نمونه امن از «نجات کار توسط مدیر» انتخاب شود؛ بدون افشای اطلاعات حساس.
+3. برای GROWTH-004 یک نمونه واقعی از دیررسیدن خبر بد یا Escalation دیرهنگام ثبت شود.
+4. هر سه جایگزین تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
+5. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
+6. Headline pattern سه محتوای جدید متفاوت نگه داشته شود.
+
+## Replacement Log — 2026-09-29
+
+این سه مفهوم پیش از انتشار Superseded شدند و URL عمومی ندارند:
+
+- GROWTH-002 v2 — «داده‌ها را داریم؛ پس چرا برای فهمیدنشان باید سؤال کنیم؟»
+- GROWTH-003 old working concept — «نرم‌افزار نصب می‌شود؛ عادت‌های دستی می‌مانند.»
+- GROWTH-004 old working concept — «یک کار ساده، بین چند نفر دست‌به‌دست می‌شود. مشکل کجاست؟»
+
+جایگزینی به‌دلیل انتخاب آگاهانه زاویه‌های انسانی‌تر و مدیریتی‌تر انجام شد؛ Positioning اصلی و معماری Season تغییر نکرد.
 
 ## Queue Governance
 
