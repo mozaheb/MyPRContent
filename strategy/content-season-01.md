@@ -78,11 +78,14 @@ Season 01 پنج فصل دارد.
 ### 02 — GROWTH-002
 **آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است.**
 
+- Final published hook: **خیلی وقت‌ها، آدم‌های خوبِ سازمان بزرگ‌ترین نقص‌های آن را پنهان می‌کنند.**
 - Format: Text + Cover
 - Role: POV / Human tension
 - Concept: Heroic compensation can hide system defects
-- Evidence Token: Real operator example of repeated manual rescue
-- Status: Evidence Needed
+- Evidence Token: Operator POV / responsibility-boundary framing
+- Status: Published
+- Published: 2026-09-29
+- URL: https://lnkd.in/p/duZNPEHQ
 
 ### 03 — GROWTH-003
 **هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود.**
