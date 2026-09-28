@@ -26,7 +26,7 @@ No content may skip Evidence Needed when its required token is not yet available
 | Seq | ID | Working Title | Format | Evidence Token | Status |
 |---:|---|---|---|---|---|
 | 01 | GROWTH-001 | شماره مشتری را داریم؛ چرا می‌پرسیم کجا بفرستیم؟ | Text | Operator observation | Published |
-| 02 | GROWTH-002 | آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است. | Text + Cover | Real repeated manual-rescue case | Evidence Needed |
+| 02 | GROWTH-002 | آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است. | Text + Cover | Operator POV / responsibility-boundary framing | Published |
 | 03 | GROWTH-003 | هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود. | Short video | Safe real management-rescue case | Evidence Needed |
 | 04 | GROWTH-004 | خبر بدی که دیر به مدیر می‌رسد، معمولاً گران‌تر تمام می‌شود. | Carousel | Real delayed-escalation case | Evidence Needed |
 | 05 | GROWTH-005 | اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است. | Text | Real repetitive workflow | Evidence Needed |
@@ -72,7 +72,7 @@ Operational cadence for the next 2 weeks:
 
 | Date | Day | Content | Role / Format | Gate before publish | Measurement |
 |---|---|---|---|---|---|
-| 2026-09-30 | 1 | GROWTH-002 | POV / Human tension — Text + Cover | Real repeated manual-rescue example required; otherwise hold | T+24h / T+72h |
+| 2026-09-29 | 1 | GROWTH-002 | POV / Human tension — Text + Cover | Published and URL verified | T+24h on Sep 30; T+72h on Oct 2 |
 | 2026-10-03 | 4 | GROWTH-003 | Operator/Human — Short video | Safe real management-rescue case required; otherwise hold | T+24h / T+72h |
 | 2026-10-06 | 7 | GROWTH-004 | Evidence/Decision — Carousel | Real delayed-escalation case required; otherwise hold | T+24h / T+72h |
 | 2026-10-09 | 10 | GROWTH-005 | Text | Real repetitive workflow required; otherwise hold | T+24h / T+72h |
@@ -96,12 +96,12 @@ Operational cadence for the next 2 weeks:
 
 ## Immediate Next Actions
 
-1. Capture one واقعی و قابل‌انتشار از جایی که یک فرد مسئولیت‌پذیر با جبران دستی، نقص سیستم را پنهان کرده است؛ این Evidence برای GROWTH-002 است.
+1. GROWTH-002 در 2026-09-29 منتشر شد؛ T+24h در 2026-09-30 و T+72h در 2026-10-02 ثبت شود.
 2. برای GROWTH-003 یک نمونه امن از «نجات کار توسط مدیر» انتخاب شود؛ بدون افشای اطلاعات حساس.
 3. برای GROWTH-004 یک نمونه واقعی از دیررسیدن خبر بد یا Escalation دیرهنگام ثبت شود.
-4. هر سه جایگزین تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
+4. GROWTH-003 و GROWTH-004 تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
 5. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
-6. Headline pattern سه محتوای جدید متفاوت نگه داشته شود.
+6. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
 
 ## Replacement Log — 2026-09-29
 
