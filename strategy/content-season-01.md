@@ -1,8 +1,9 @@
 # Content Season 01 — معماری رشد کسب‌وکار
 
 Status: Canonical
-Version: 1.0
+Version: 1.1
 Effective: 2026-09-22
+Last updated: 2026-09-29
 Scope: First 30 master contents
 Primary channel: LinkedIn
 Recommended cadence: 3 master contents/week
@@ -75,31 +76,31 @@ Season 01 پنج فصل دارد.
 - URL: https://lnkd.in/p/dT8AsPhy
 
 ### 02 — GROWTH-002
-**داده‌ها را داریم؛ پس چرا برای فهمیدنشان باید سؤال کنیم؟**
+**آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است.**
 
 - Format: Text + Cover
-- Role: Data-to-decision transition
-- Concept: Actionable awareness
-- Evidence Token: Management observation
-- Status: Ready-to-publish
+- Role: POV / Human tension
+- Concept: Heroic compensation can hide system defects
+- Evidence Token: Real operator example of repeated manual rescue
+- Status: Evidence Needed
 
 ### 03 — GROWTH-003
-**نرم‌افزار نصب می‌شود؛ عادت‌های دستی می‌مانند.**
+**هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود.**
 
 - Format: Short video
-- Role: Break repeated question format
-- Concept: Tool adoption ≠ process redesign
-- Evidence Token: Real implementation example
-- Status: Planned
+- Role: Operator / Human
+- Concept: Manager rescue can create organizational dependency
+- Evidence Token: Safe real management rescue case
+- Status: Evidence Needed
 
 ### 04 — GROWTH-004
-**یک کار ساده، بین چند نفر دست‌به‌دست می‌شود. مشکل کجاست؟**
+**خبر بدی که دیر به مدیر می‌رسد، معمولاً گران‌تر تمام می‌شود.**
 
 - Format: Carousel
-- Role: Reveal hidden coordination cost
-- Concept: Handoff friction
-- Evidence Token: Real process map
-- Status: Planned
+- Role: Evidence / Decision
+- Concept: Early warning and safe escalation
+- Evidence Token: Real delayed-escalation case
+- Status: Evidence Needed
 
 ### 05 — GROWTH-005
 **اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است.**
