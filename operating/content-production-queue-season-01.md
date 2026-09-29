@@ -3,7 +3,7 @@
 Status: Active
 Version: 1.1
 Effective: 2026-09-22
-Last updated: 2026-09-29
+Last updated: 2026-09-30
 Cadence: 3 master contents/week
 Source of strategy: strategy/content-season-01.md
 
@@ -18,8 +18,11 @@ No content may skip Evidence Needed when its required token is not yet available
 | Priority | ID | Working Title | Format | Evidence Token | Status |
 |---:|---|---|---|---|---|
 | DONE | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text + Insight Cover | Operator observation | Published |
+| READY | GROWTH-015 | هنر مدیریت، پیش‌بینیِ درست نیست؛ تاب‌آوردنِ پیش‌بینیِ غلط است. | Text + Insight Cover | Current Iran market signal + Operator POV | Ready-to-publish |
 
-این Operator Interlude در 2026-09-23 منتشر شد. در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
+این Operator Interlude در 2026-09-23 منتشر شد.
+GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude ثبت شد. این محتوا هنوز منتشر نشده و تا زمان دریافت URL زنده در وضعیت Ready-to-publish باقی می‌ماند.
+ در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
 
 ## Queue
 
