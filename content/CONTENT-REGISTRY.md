@@ -8,6 +8,7 @@
 | GROWTH-003-fa-v1 | 2026-09-29 | GROWTH | fa | LinkedIn | نجات مکرر کارها توسط مدیر می‌تواند وابستگی سازمانی را تقویت کند، نه توانمندی سیستم را. | evidence-needed | |
 | GROWTH-004-fa-v1 | 2026-09-29 | GROWTH | fa | LinkedIn | هرچه خبر بد دیرتر به سطح تصمیم برسد، هزینه اصلاح معمولاً بیشتر می‌شود؛ سیستم باید Early Warning و Escalation سالم بسازد. | evidence-needed | |
 | GROWTH-014-fa-v2 | 2026-09-23 | GROWTH | fa | LinkedIn | تجربه تصمیم‌گیری مدیران ایرانی در عدم‌قطعیت می‌تواند به دانش مدیریتی قابل انتقال تبدیل شود. | published | https://www.linkedin.com/posts/yousof-mozaheb_%D8%B8%D8%A7%D9%87%D8%B1-%D8%B4%D9%87%D8%B1-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B9%D8%A7%D8%AF%DB%8C%D8%A8%D9%88%D8%AF%D9%86-%D9%87%D8%A7-activity-7508493753884643328-hAIF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABLOgrABY6NOs1p7CBh9ot3xYy5ZWUky0xM |
+| GROWTH-015-fa-v1 | 2026-09-30 | GROWTH | fa | LinkedIn | هنر مدیریت در عدم‌قطعیت، پیش‌بینی دقیق آینده نیست؛ تصمیم باید در برابر خطای پیش‌بینی تاب‌آور باشد. | ready-to-publish | |
 
 ## Published Content
 
