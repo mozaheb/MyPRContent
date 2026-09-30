@@ -18,10 +18,10 @@ No content may skip Evidence Needed when its required token is not yet available
 | Priority | ID | Working Title | Format | Evidence Token | Status |
 |---:|---|---|---|---|---|
 | DONE | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text + Insight Cover | Operator observation | Published |
-| READY | GROWTH-015 | هنر مدیریت، پیش‌بینیِ درست نیست؛ تاب‌آوردنِ پیش‌بینیِ غلط است. | Text + Insight Cover | Current Iran market signal + Operator POV | Ready-to-publish |
+| DONE | GROWTH-015 | هنر مدیریت، پیش‌بینیِ درست نیست؛ تاب‌آوردنِ پیش‌بینیِ غلط است. | Text + Insight Cover | Current Iran market signal + Operator POV | Published |
 
 این Operator Interlude در 2026-09-23 منتشر شد.
-GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude ثبت شد. این محتوا هنوز منتشر نشده و تا زمان دریافت URL زنده در وضعیت Ready-to-publish باقی می‌ماند.
+GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude منتشر شد. URL زنده توسط کاربر تأیید و ثبت شد: https://lnkd.in/p/dCW-Yu96
  در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
 
 ## Queue
@@ -99,12 +99,13 @@ Operational cadence for the next 2 weeks:
 
 ## Immediate Next Actions
 
-1. GROWTH-002 در 2026-09-29 منتشر شد؛ T+24h در 2026-09-30 و T+72h در 2026-10-02 ثبت شود.
-2. برای GROWTH-003 یک نمونه امن از «نجات کار توسط مدیر» انتخاب شود؛ بدون افشای اطلاعات حساس.
-3. برای GROWTH-004 یک نمونه واقعی از دیررسیدن خبر بد یا Escalation دیرهنگام ثبت شود.
-4. GROWTH-003 و GROWTH-004 تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
-5. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
-6. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
+1. GROWTH-015 در 2026-09-30 منتشر شد؛ T+24h در 2026-10-01 و T+72h در 2026-10-03 ثبت شود.
+2. GROWTH-002 در 2026-09-29 منتشر شد؛ T+24h در 2026-09-30 و T+72h در 2026-10-02 ثبت شود.
+3. برای GROWTH-003 یک نمونه امن از «نجات کار توسط مدیر» انتخاب شود؛ بدون افشای اطلاعات حساس.
+4. برای GROWTH-004 یک نمونه واقعی از دیررسیدن خبر بد یا Escalation دیرهنگام ثبت شود.
+5. GROWTH-003 و GROWTH-004 تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
+6. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
+7. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
 
 ## Replacement Log — 2026-09-29
 
