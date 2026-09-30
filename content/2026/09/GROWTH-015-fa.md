@@ -18,7 +18,7 @@ canonical_terms:
   - معماری رشد کسب‌وکار
 cover_template: insight
 cta_type: none
-status: ready-to-publish
+status: published
 ---
 
 # GROWTH / 015 — LinkedIn
@@ -81,8 +81,9 @@ status: ready-to-publish
 
 ## Publication Record
 
-- Status: ready-to-publish
+- Status: published
 - Channel: LinkedIn
-- Published date: pending
-- URL: pending
-- Publication status must not change to published until a verified live URL is provided.
+- Published date: 2026-09-30
+- URL: https://lnkd.in/p/dCW-Yu96
+- Verification: user-confirmed-live-url
+- Measurement windows: T+24h = 2026-10-01; T+72h = 2026-10-03; T+7d = 2026-10-07; T+30d = 2026-10-30.
