@@ -8,7 +8,7 @@
 | GROWTH-003-fa-v1 | 2026-09-29 | GROWTH | fa | LinkedIn | نجات مکرر کارها توسط مدیر می‌تواند وابستگی سازمانی را تقویت کند، نه توانمندی سیستم را. | evidence-needed | |
 | GROWTH-004-fa-v1 | 2026-09-29 | GROWTH | fa | LinkedIn | هرچه خبر بد دیرتر به سطح تصمیم برسد، هزینه اصلاح معمولاً بیشتر می‌شود؛ سیستم باید Early Warning و Escalation سالم بسازد. | evidence-needed | |
 | GROWTH-014-fa-v2 | 2026-09-23 | GROWTH | fa | LinkedIn | تجربه تصمیم‌گیری مدیران ایرانی در عدم‌قطعیت می‌تواند به دانش مدیریتی قابل انتقال تبدیل شود. | published | https://www.linkedin.com/posts/yousof-mozaheb_%D8%B8%D8%A7%D9%87%D8%B1-%D8%B4%D9%87%D8%B1-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B9%D8%A7%D8%AF%DB%8C%D8%A8%D9%88%D8%AF%D9%86-%D9%87%D8%A7-activity-7508493753884643328-hAIF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABLOgrABY6NOs1p7CBh9ot3xYy5ZWUky0xM |
-| GROWTH-015-fa-v1 | 2026-09-30 | GROWTH | fa | LinkedIn | هنر مدیریت در عدم‌قطعیت، پیش‌بینی دقیق آینده نیست؛ تصمیم باید در برابر خطای پیش‌بینی تاب‌آور باشد. | ready-to-publish | |
+| GROWTH-015-fa-v1 | 2026-09-30 | GROWTH | fa | LinkedIn | هنر مدیریت در عدم‌قطعیت، پیش‌بینی دقیق آینده نیست؛ تصمیم باید در برابر خطای پیش‌بینی تاب‌آور باشد. | published | https://lnkd.in/p/dCW-Yu96 |
 
 ## Published Content
 
@@ -37,6 +37,18 @@
 - URL: https://lnkd.in/p/duZNPEHQ
 - Published: 2026-09-29
 - Final angle: مرز میان مسئولیت نقشی، مسئولیت سازمانی و مسئولیت جبرانی
+- T+24h: pending
+- T+72h: pending
+- T+7d: pending
+- T+30d: pending
+
+
+### GROWTH-015
+**هنر مدیریت، پیش‌بینیِ درست نیست؛ تاب‌آوردنِ پیش‌بینیِ غلط است.**
+
+- URL: https://lnkd.in/p/dCW-Yu96
+- Published: 2026-09-30
+- Final angle: مدیریت عدم‌قطعیت با سناریو و تصمیم‌های تاب‌آور، نه اتکا به یک پیش‌بینی واحد
 - T+24h: pending
 - T+72h: pending
 - T+7d: pending
