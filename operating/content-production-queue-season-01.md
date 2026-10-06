@@ -19,11 +19,13 @@ No content may skip Evidence Needed when its required token is not yet available
 |---:|---|---|---|---|---|
 | DONE | GROWTH-014 | یکی از سرمایه‌های پنهان ایران، مدیرانش هستند. | Text + Insight Cover | Operator observation | Published |
 | DONE | GROWTH-015 | هنر مدیریت، پیش‌بینیِ درست نیست؛ تاب‌آوردنِ پیش‌بینیِ غلط است. | Text + Insight Cover | Current Iran market signal + Operator POV | Published |
+| DONE | GROWTH-016 | رشد خوب، بعد از پایان کار هم ادامه دارد. | Data-led Text + Evidence Image | GSC 3-month performance: 1.13m clicks / 12.6m impressions / ~9% CTR | Published |
 
 این Operator Interlude در 2026-09-23 منتشر شد.
 GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude منتشر شد. URL زنده توسط کاربر تأیید و ثبت شد: https://lnkd.in/p/dCW-Yu96
  در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
 GROWTH-004 در 2026-10-07 به‌عنوان نسخه درد‌محور منتشر شد. URL زنده توسط کاربر تأیید شد: https://lnkd.in/p/dmhPfNfB
+GROWTH-016 در 2026-10-07 به‌عنوان Data-led Growth Asset Interlude منتشر شد. Evidence آن اسکرین‌شات Google Search Console یکی از سایت‌های استارتاپ‌های کاربر است. URL زنده: https://lnkd.in/p/dRwYYTeh
 
 ## Queue
 
@@ -109,6 +111,7 @@ Operational cadence for the next 2 weeks:
 7. GROWTH-005 برای انتشار بعدی آماده‌سازی شود؛ Evidence آن یک فرایند تکراری واقعی است.
 8. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
 9. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
+10. برای GROWTH-016، T+24h در 2026-10-08 و T+72h در 2026-10-10 ثبت شود.
 
 ## Replacement Log — 2026-09-29
 
