@@ -3,7 +3,7 @@
 Status: Active
 Version: 1.1
 Effective: 2026-09-22
-Last updated: 2026-09-30
+Last updated: 2026-10-07
 Cadence: 3 master contents/week
 Source of strategy: strategy/content-season-01.md
 
@@ -23,6 +23,7 @@ No content may skip Evidence Needed when its required token is not yet available
 این Operator Interlude در 2026-09-23 منتشر شد.
 GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude منتشر شد. URL زنده توسط کاربر تأیید و ثبت شد: https://lnkd.in/p/dCW-Yu96
  در 2026-09-29 سه محتوای منتشرنشده نخست بازطراحی شدند و توالی اصلی Season 01 اکنون با نسخه جدید GROWTH-002 ادامه پیدا می‌کند.
+GROWTH-004 در 2026-10-07 به‌عنوان نسخه درد‌محور منتشر شد. URL زنده توسط کاربر تأیید شد: https://lnkd.in/p/dmhPfNfB
 
 ## Queue
 
@@ -31,7 +32,7 @@ GROWTH-015 در 2026-09-30 به‌عنوان Timely Operator Interlude منتش�
 | 01 | GROWTH-001 | شماره مشتری را داریم؛ چرا می‌پرسیم کجا بفرستیم؟ | Text | Operator observation | Published |
 | 02 | GROWTH-002 | آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است. | Text + Cover | Operator POV / responsibility-boundary framing | Published |
 | 03 | GROWTH-003 | هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود. | Short video | Safe real management-rescue case | Evidence Needed |
-| 04 | GROWTH-004 | خبر بدی که دیر به مدیر می‌رسد، معمولاً گران‌تر تمام می‌شود. | Carousel | Real delayed-escalation case | Evidence Needed |
+| 04 | GROWTH-004 | مشتری ناراضی است؛ تیم می‌داند، مدیر نه. | Text + Cover | Operator observation + delayed-escalation framing | Published |
 | 05 | GROWTH-005 | اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است. | Text | Real repetitive workflow | Evidence Needed |
 | 06 | RETHINK-001 | بعضی سازمان‌ها نرم‌افزار بیشتری نمی‌خواهند؛ اصطکاک کمتری می‌خواهند. | Video | Operator synthesis | Planned |
 | 07 | GROWTH-006 | مدیر نباید همه داده‌ها را ببیند؛ باید تغییر مهم را ببیند. | Text | CEO observation | Planned |
@@ -77,7 +78,7 @@ Operational cadence for the next 2 weeks:
 |---|---|---|---|---|---|
 | 2026-09-29 | 1 | GROWTH-002 | POV / Human tension — Text + Cover | Published and URL verified | T+24h on Sep 30; T+72h on Oct 2 |
 | 2026-10-03 | 4 | GROWTH-003 | Operator/Human — Short video | Safe real management-rescue case required; otherwise hold | T+24h / T+72h |
-| 2026-10-06 | 7 | GROWTH-004 | Evidence/Decision — Carousel | Real delayed-escalation case required; otherwise hold | T+24h / T+72h |
+| 2026-10-07 | 7 | GROWTH-004 | Evidence/Decision — Text + Cover | Published; live URL verified by user | T+24h on Oct 8; T+72h on Oct 10 |
 | 2026-10-09 | 10 | GROWTH-005 | Text | Real repetitive workflow required; otherwise hold | T+24h / T+72h |
 | 2026-10-12 | 13 | RETHINK-001 | Operator synthesis — Video | Synthesis must be grounded in operator evidence from prior posts | T+24h / T+72h |
 
@@ -102,10 +103,12 @@ Operational cadence for the next 2 weeks:
 1. GROWTH-015 در 2026-09-30 منتشر شد؛ T+24h در 2026-10-01 و T+72h در 2026-10-03 ثبت شود.
 2. GROWTH-002 در 2026-09-29 منتشر شد؛ T+24h در 2026-09-30 و T+72h در 2026-10-02 ثبت شود.
 3. برای GROWTH-003 یک نمونه امن از «نجات کار توسط مدیر» انتخاب شود؛ بدون افشای اطلاعات حساس.
-4. برای GROWTH-004 یک نمونه واقعی از دیررسیدن خبر بد یا Escalation دیرهنگام ثبت شود.
-5. GROWTH-003 و GROWTH-004 تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بمانند.
-6. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
-7. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
+4. GROWTH-004 در 2026-10-07 منتشر شد؛ URL زنده توسط کاربر تأیید شد: https://lnkd.in/p/dmhPfNfB
+5. برای GROWTH-004، T+24h در 2026-10-08 و T+72h در 2026-10-10 ثبت شود.
+6. GROWTH-003 همچنان تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بماند.
+7. GROWTH-005 برای انتشار بعدی آماده‌سازی شود؛ Evidence آن یک فرایند تکراری واقعی است.
+8. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
+9. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
 
 ## Replacement Log — 2026-09-29
 
