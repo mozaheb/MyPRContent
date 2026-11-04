@@ -12,6 +12,8 @@
 | GROWTH-015-fa-v1 | 2026-09-30 | GROWTH | fa | LinkedIn | هنر مدیریت در عدم‌قطعیت، پیش‌بینی دقیق آینده نیست؛ تصمیم باید در برابر خطای پیش‌بینی تاب‌آور باشد. | published | https://lnkd.in/p/dCW-Yu96 |
 | GROWTH-016-fa-v1 | 2026-10-07 | GROWTH | fa | LinkedIn | رشد پایدار فقط خروجی امروز نیست؛ بعضی فعالیت‌ها به دارایی رشد تبدیل می‌شوند و بعد از ساخت، همچنان ارزش تولید می‌کنند. | published | https://lnkd.in/p/dRwYYTeh |
 
+| GROWTH-005-fa-v1 | 2026-11-04 | GROWTH | fa | LinkedIn | آغاز پیگیری و تشخیص تأخیر باید در فرایند تعریف شود تا وابستگی به یادآوری دستی کاهش یابد. | published | https://lnkd.in/p/ekMNBZTa |
+
 ## Published Content
 
 ### GROWTH-001
@@ -85,6 +87,24 @@
 - T+7d: pending
 - T+30d: pending
 
+### GROWTH-005
+**«یادت نره با مشتری تماس بگیری.»**
+
+- URL: https://lnkd.in/p/ekMNBZTa
+- Published: 2026-11-04 (Asia/Tehran؛ ساعت دقیق ثبت نشده است)
+- Version: GROWTH-005-fa-v1
+- Final format: Text + Cover
+- Core claim / cover: اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است.
+- Final angle: آموزش طراحی مسیر ثبت فرم مشتری تا پیگیری فروش، با مسئول، مهلت و هشدار تأخیر مشخص.
+- Verification: کاربر انتشار را اعلام کرد؛ متن و کاور نیز در پست زنده لینکدین مشاهده و با نسخه تأییدشده تطبیق داده شدند.
+- Evidence provenance: متن با «فرض کنید» یک مثال آموزشی را توضیح می‌دهد؛ وقوع داخلی این نمونه یا نتیجه اجرای آن در آموت تأیید نشده است.
+- Archive: content/2026/11/GROWTH-005-fa.md
+- Cover source: https://chatgpt.com/library?file_id=libfile_4ef3a70f94588191b0c730af7cbece45&account_id=personal
+- T+24h: pending — 2026-11-05
+- T+72h: pending — 2026-11-07
+- T+7d: pending — 2026-11-11
+- T+30d: pending — 2026-12-04
+
 ## Unpublished Replacement Log — 2026-09-29
 
 سه مفهوم زیر پیش از انتشار کنار گذاشته شدند و URL عمومی ندارند:
@@ -95,11 +115,11 @@
 
 ## Next Content
 
-### GROWTH-005
-**اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است.**
+### RETHINK-001
+**بعضی سازمان‌ها نرم‌افزار بیشتری نمی‌خواهند؛ اصطکاک کمتری می‌خواهند.**
 
-Status: evidence-needed  
-Publication priority: next scheduled after GROWTH-004
+Status: planned  
+Publication gate: جمع‌بندی باید بر شواهد عملیاتی معتبر از محتوای فصل متکی باشد؛ انتشار GROWTH-005 به‌تنهایی شاهد اجرای واقعی نمونه آن محسوب نمی‌شود.
 
 ## Season
 

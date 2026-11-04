@@ -3,7 +3,7 @@
 Status: Active
 Version: 1.1
 Effective: 2026-09-22
-Last updated: 2026-10-07
+Last updated: 2026-11-04
 Cadence: 3 master contents/week
 Source of strategy: strategy/content-season-01.md
 
@@ -35,7 +35,7 @@ GROWTH-016 در 2026-10-07 به‌عنوان Data-led Growth Asset Interlude م�
 | 02 | GROWTH-002 | آدم‌های مسئولیت‌پذیر گاهی اجازه نمی‌دهند بفهمیم سیستم خراب است. | Text + Cover | Operator POV / responsibility-boundary framing | Published |
 | 03 | GROWTH-003 | هر بار که مدیر قهرمان می‌شود، سازمان کمی ضعیف‌تر می‌شود. | Short video | Safe real management-rescue case | Evidence Needed |
 | 04 | GROWTH-004 | مشتری ناراضی است؛ تیم می‌داند، مدیر نه. | Text + Cover | Operator observation + delayed-escalation framing | Published |
-| 05 | GROWTH-005 | اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است. | Text | Real repetitive workflow | Evidence Needed |
+| 05 | GROWTH-005 | اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است. | Text + Cover | Published illustrative workflow; internal-case confirmation pending | Published |
 | 06 | RETHINK-001 | بعضی سازمان‌ها نرم‌افزار بیشتری نمی‌خواهند؛ اصطکاک کمتری می‌خواهند. | Video | Operator synthesis | Planned |
 | 07 | GROWTH-006 | مدیر نباید همه داده‌ها را ببیند؛ باید تغییر مهم را ببیند. | Text | CEO observation | Planned |
 | 08 | RETHINK-002 | داشبوردی که تصمیم ایجاد نمی‌کند، فقط گزارش را زیباتر کرده است. | Carousel | Real dashboard | Evidence Needed |
@@ -61,6 +61,19 @@ GROWTH-016 در 2026-10-07 به‌عنوان Data-led Growth Asset Interlude م�
 | 28 | RADAR-005 | نرم‌افزار سازمانی آینده صفحه‌های بیشتری ندارد؛ تصمیم‌های کمتری به انسان واگذار می‌کند. | Video | Dated prediction | Prediction Needed |
 | 29 | GROWTH-012 | سیگنال، تصمیم، سیستم، آزمایش، مقیاس. | Carousel | Season synthesis | Blocked by prior evidence |
 | 30 | GROWTH-013 | رشد را نمی‌شود فقط هک کرد؛ باید معماری کرد. | Manifesto | Season evidence | Blocked by prior evidence |
+
+## Publication Update — 2026-11-04
+
+GROWTH-005 با نسخه GROWTH-005-fa-v1 در 2026-11-04 به‌صورت Text + Cover منتشر شد. اعلام کاربر و مشاهده مستقیم متن و کاور در پست زنده، انتشار را تأیید می‌کنند.
+
+- URL: https://lnkd.in/p/ekMNBZTa
+- Archive: content/2026/11/GROWTH-005-fa.md
+- Copy match: متن منتشرشده با نسخه تأییدشده یکسان است؛ تفاوت نمایشی شکست پاراگراف‌ها نادیده گرفته شد.
+- Evidence provenance: این متن صریحاً یک مثال آموزشی با «فرض کنید» دارد. نمونه داخلی واقعی و نتیجه پیاده‌سازی در آموت همچنان تأیید نشده‌اند.
+- Governance note: وضعیت Published ثبت واقعیت انتشار است؛ تکمیل خودکار شرط شاهد واقعی یا تغییر قواعد پیش از انتشار را نشان نمی‌دهد.
+- Review dates (Asia/Tehran): T+24h = 2026-11-05؛ T+72h = 2026-11-07؛ T+7d = 2026-11-11؛ T+30d = 2026-12-04.
+- Review execution: pending؛ این موعدها ثبت برنامه ارزیابی‌اند و به‌معنای اجرای ارزیابی یا ساخت یادآور خودکار نیستند.
+- Next narrative item: RETHINK-001، مشروط به شواهد عملیاتی معتبر برای جمع‌بندی.
 
 ## LinkedIn Cadence Test
 
@@ -108,7 +121,7 @@ Operational cadence for the next 2 weeks:
 4. GROWTH-004 در 2026-10-07 منتشر شد؛ URL زنده توسط کاربر تأیید شد: https://lnkd.in/p/dmhPfNfB
 5. برای GROWTH-004، T+24h در 2026-10-08 و T+72h در 2026-10-10 ثبت شود.
 6. GROWTH-003 همچنان تا قبل از Evidence معتبر در وضعیت Evidence Needed باقی بماند.
-7. GROWTH-005 برای انتشار بعدی آماده‌سازی شود؛ Evidence آن یک فرایند تکراری واقعی است.
+7. انتشار GROWTH-005 در 2026-11-04 ثبت شد؛ ارزیابی T+24h و T+72h در 2026-11-05 و 2026-11-07 در انتظار ثبت است. تأیید نمونه داخلی واقعی جداگانه باقی می‌ماند.
 8. Captureهای عقب‌افتاده GROWTH-001 و GROWTH-014 تکمیل شوند.
 9. Headline pattern محتواهای بعدی متفاوت نگه داشته شود.
 10. برای GROWTH-016، T+24h در 2026-10-08 و T+72h در 2026-10-10 ثبت شود.

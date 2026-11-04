@@ -3,7 +3,7 @@
 Status: Canonical
 Version: 1.1
 Effective: 2026-09-22
-Last updated: 2026-09-29
+Last updated: 2026-11-04
 Scope: First 30 master contents
 Primary channel: LinkedIn
 Recommended cadence: 3 master contents/week
@@ -108,11 +108,18 @@ Season 01 پنج فصل دارد.
 ### 05 — GROWTH-005
 **اگر کار با یادآوری جلو می‌رود، اتوماسیون هنوز اتفاق نیفتاده است.**
 
-- Format: Text
+- Format: Text + Cover
 - Role: Define automation operationally
 - Concept: Trigger-based operation
-- Evidence Token: Real repetitive workflow
-- Status: Planned
+- Required Evidence Token: Real repetitive workflow
+- Published evidence: مثال آموزشی با «فرض کنید»؛ تأیید نمونه داخلی واقعی یا نتیجه اجرای آن در آموت در دست نیست.
+- Status: Published
+- Published: 2026-11-04
+- Version: GROWTH-005-fa-v1
+- URL: https://lnkd.in/p/ekMNBZTa
+- Archive: content/2026/11/GROWTH-005-fa.md
+- Verification: اعلام کاربر و مشاهده مستقیم پست زنده؛ متن و کاور با نسخه تأییدشده تطبیق دارند.
+- Governance note: ثبت انتشار، به‌معنای تکمیل شرط شاهد واقعی یا تغییر قواعد فصل نیست.
 
 ### 06 — RETHINK-001
 **بعضی سازمان‌ها نرم‌افزار بیشتری نمی‌خواهند؛ اصطکاک کمتری می‌خواهند.**
