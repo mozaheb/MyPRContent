@@ -36,7 +36,8 @@
     "kpi_framework": "measurement/kpi-framework.md",
     "operating_plan": "operating/90-day-plan.md",
     "strategy_quality_gate": "governance/quality-gate-v2.md",
-    "persian_writing_external_baseline": "language/persian-writing-external-baseline.md"
+    "persian_writing_external_baseline": "language/persian-writing-external-baseline.md",
+    "linkedin_growth_and_influence_system": "strategy/linkedin-growth-and-influence-system-v1.md"
   },
   "operational": {
     "content_registry": "content/CONTENT-REGISTRY.md",
@@ -87,7 +88,8 @@
     "trend_layer": "quarterly",
     "kpis": "monthly",
     "cover_system": "semiannual or when channel behavior materially changes",
-    "reza_mostafa_schema_informed_systemization_strategy": "after at least 5 published contents using the Human Tension Layer, then quarterly if retained"
+    "reza_mostafa_schema_informed_systemization_strategy": "after at least 5 published contents using the Human Tension Layer, then quarterly if retained",
+    "linkedin_growth_and_influence_system": "every 90 days or on material LinkedIn audience/distribution change"
   },
   "external_normative_dependencies": {
     "persian_writing": {
