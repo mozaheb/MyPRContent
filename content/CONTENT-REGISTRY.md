@@ -2,6 +2,7 @@
 
 | ID | Date | Series | Language | Channel | Core Claim | Status | URL |
 |---|---|---|---|---|---|---|---|
+| GROWTH-017-fa-v1 | 2026-11-09 | GROWTH | fa | LinkedIn | اعتماد شخصی مشتری به مدیرعامل باید به رابطه سازمانی و پاسخ‌گویی مستقل از شخص تبدیل شود. | draft-evidence-needed | |
 | GROWTH-001-fa-v3 | 2026-09-22 | GROWTH | fa | LinkedIn | شماره موبایل می‌تواند هویت ارتباطی مشتری باشد، نه فقط ابزار تماس. | published | https://lnkd.in/p/dT8AsPhy |
 | GROWTH-002-fa-v2 | 2026-09-22 | GROWTH | fa | LinkedIn | ارزش مدیریتی داده زمانی ایجاد می‌شود که پیش از پرسش مدیر، سیگنال و تصمیم قابل‌اقدام بسازد. | superseded-unpublished | |
 | GROWTH-002-fa-v3 | 2026-09-29 | GROWTH | fa | LinkedIn | آدم‌های مسئولیت‌پذیر می‌توانند با جبران دستی، خرابی سیستم را برای مدت طولانی پنهان کنند. | published | https://lnkd.in/p/duZNPEHQ |
